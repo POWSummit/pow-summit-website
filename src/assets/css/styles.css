@@ -787,7 +787,6 @@ footer {
 .footerContainer .cryptoIcons {
 	width: 163px;
 	height: 64px;
-	padding: 0px 26px;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
@@ -860,7 +859,13 @@ footer {
 
 .footerContainer .litecoin-container {
 	background: white;
-	border-radius: 100%;
+	padding: 5px;
+	border-radius: 10px;
+	margin-left: 10px;
+}
+
+.footerContainer .etccoin-container {
+	margin-right: 10px;
 }
 
 /* footer ends here */
