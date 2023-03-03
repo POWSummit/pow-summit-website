@@ -3,19 +3,14 @@
 		{
 			"type": "General Ticket",
 			"price": "€130",
-			"features": ["Lorem Ipsum ipsum lorem", "Lorem Ipsum ipsum"],
-			"buy_ticket_link": "https://www.google.com"
+			"features": [],
+			"buy_ticket_link": "https://www.eventbrite.ca/e/pow-summit-2023-tickets-551536098317"
 		},
 		{
 			"type": "VIP",
 			"price": "€260",
-			"features": [
-				"Lorem Ipsum ipsum lorem",
-				"Lorem Ipsum ipsum",
-				"Lorem Ipsum ipsum",
-				"Lorem Ipsum ipsum"
-			],
-			"buy_ticket_link": "https://www.google.com"
+			"features": [],
+			"buy_ticket_link": "https://www.eventbrite.ca/e/pow-summit-2023-tickets-551536098317"
 		}
 	]
 }

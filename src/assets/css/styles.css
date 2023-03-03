@@ -565,7 +565,7 @@
 }
 
 .eventTicketsContainer .card.generalTicket .ticketData {
-	margin-bottom: 142px;
+	margin-bottom: 36px;
 }
 
 .eventTicketsContainer .card.vipTicket .ticketData {
@@ -670,7 +670,7 @@
 
 .sponsorsContainer .sponsorsLogos {
 	display: flex;
-	justify-content: space-between;
+	justify-content: end;
 	max-width: 569px;
 	width: 100%;
 	margin-left: auto;
@@ -685,7 +685,6 @@
 }
 
 .sponsorsContainer .sponsorsLogo img {
-	width: 90px;
 	height: auto;
 }
 
@@ -1085,7 +1084,6 @@ footer {
 	}
 
 	.sponsorsContainer .sponsorsLogo img {
-		width: 60px;
 		height: auto;
 	}
 
@@ -1198,7 +1196,6 @@ footer {
 	}
 
 	.sponsorsContainer .sponsorsLogo img {
-		width: 60px;
 		height: auto;
 	}
 
