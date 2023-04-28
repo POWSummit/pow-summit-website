@@ -37,7 +37,13 @@
 				proof-of-work. They'll be covering topics from ‘advancements in mining’
 				to ‘changes in policy.’
 			</p>
-			<button>REGISTER YOUR<br />SPEAKER INTEREST</button>
+			<a
+				href="mailto:hello@mmhgroup.io"
+				class="text-decoration-none"
+				target="_blank"
+			>
+				<button>REGISTER YOUR<br />SPEAKER INTEREST</button>
+			</a>
 		</div>
 	</section>
 </template>
