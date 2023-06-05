@@ -33,7 +33,7 @@
 				</div>
 			</div>
 <div class="text-center">
-<h1>Want to pay using crypto?</h1>
+<h2>Want to pay using crypto?</h2>
 <p> Please contact us at <a href="mailto:hello@mmhgroup.io">hello@mmhgroup.io</a>
 </p> </div>
 		</div>
