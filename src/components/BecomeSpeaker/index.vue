@@ -2,11 +2,7 @@
 	<section class="becomeSpeakerSection">
 		<div class="mainContainer becomeSpeakerContainer">
 			<div class="becomeSpeakerContent" v-html="md(becomeSpeaker)"></div>
-			<div class="becomeSpeakerContent">
-				<a :href="becomeSpeakerButton.url">
-					<button>{{ becomeSpeakerButton.title }}</button>
-				</a>
-			</div>
+			
 		</div>
 	</section>
 </template>
