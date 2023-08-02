@@ -1,3 +1,7 @@
+Igor Barinov	Founder, Blockscout
+
+	 
+
 {
 	"data": [
 		{
@@ -90,6 +94,11 @@
 			"name": "AMBER SCOTT",
 			"title": "Founder & CEO, Outlier Solutions Inc."
 		},
+{
+			"image": "/img/speakers/igor-barinov.png",
+			"name": "IGOR BARINOV",
+			"title": "Founder, Blockscout"
+		},
 		{
 			"image": "/img/speakers/adella-toulon-forester.jpg",
 			"name": "ADELLA TOULON-FORESTER",
@@ -144,6 +153,11 @@
 			"image": "/img/speakers/loshan.jpg",
 			"name": "LOSHAN",
 			"title": "Software, Litecoin Foundation"
+		},
+{
+			"image": "/img/speakers/alana-mediavilla.png",
+			"name": "ALANA MEDIAVILLA",
+			"title": "Software, Filmmaker, Dirty Coin"
 		}
 		
 		
