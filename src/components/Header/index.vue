@@ -12,11 +12,10 @@
 		<div class="proofHeroHead">
 			<h2>SECURING BLOCKCHAIN'S FUTURE</h2>
 			<p>
-				Proof of Work Summit is a much needed counterpunch to lazy mainstream
-				narratives which paint proof-of-work as an obsolete technology with no merits,
-				which is destroying the planet, rather than the revolutionary
-				technology which we know it to be.  Cypherpunk fundamentals are more
-				important than ever.
+				Proof of Work Summit is a much needed antidote to misleading mainstream
+				narratives around proof-of-work.  Far from being obsolete and environmentally
+				harmful, it is a revolutionary freedom technology.
+				Back to cypherpunk fundamentals!
 			</p>
 		</div>
 
@@ -55,7 +54,7 @@
 					<div class="heroCardContent">
 						<h3>HANDS-ON <span>WORKSHOPS</span></h3>
 						<p>
-							Learn from the builders themselves.
+							Learn directly from the builders themselves.
 						</p>
 					</div>
 				</div>
