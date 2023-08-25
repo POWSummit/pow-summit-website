@@ -4,8 +4,7 @@
 			<div class="ourSpeakersHead">
 				<h1>OUR SPEAKERS</h1>
 				<p>
-					Join the "OG's" of cryptocurrency as we discuss the birth, growth, and
-					future of Proof-of-Work.
+					The bravest and the brightest.
 				</p>
 			</div>
 			<div class="spearkerCards">
@@ -114,16 +113,6 @@
 					</div>
 				</div>
 			</div>
-		</div>
-	</section>
-	<section class="registerSpeakerSection">
-		<div class="proofMainContainer registerSpeakerContainer">
-			<h1>MORE SPEAKERS ARE ABOUT TO LAND</h1>
-			<p>
-				Our speakers have diverse voices, with distinct perspectives on
-				proof-of-work. They'll be covering topics from ‘advancements in mining’
-				to ‘changes in policy.’
-			</p>
 		</div>
 	</section>
 </template>

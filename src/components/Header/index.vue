@@ -12,8 +12,11 @@
 		<div class="proofHeroHead">
 			<h2>SECURING BLOCKCHAIN'S FUTURE</h2>
 			<p>
-				The inaugural ‘Proof-of-Work Summit’ is a celebration of the world's
-				most effective and secure consensus mechanism.
+				Proof of Work Summit is a much needed counterpunch to lazy mainstream
+				narratives which paint proof-of-work as an obsolete technology with no merits,
+				which is destroying the planet, rather than the revolutionary
+				technology which we know it to be.  Cypherpunk fundamentals are more
+				important than ever.
 			</p>
 		</div>
 
@@ -26,8 +29,7 @@
 					<div class="heroCardContent">
 						<h3>WORLD CLASS <span>SPEAKERS</span></h3>
 						<p>
-							Our speakers represent diverse voices with distinct perspectives
-							from around the world.
+							The builders, the visionaries, the rebels, the troublemakers and the dreamers.
 						</p>
 					</div>
 				</div>
@@ -35,13 +37,12 @@
 			<div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
 				<div class="heroCard">
 					<div class="heroCardImg">
-						<img src="@/assets/images/heroImg2.jpg" alt="" />
+						<img src="@/assets/images/ltc-summit.png" alt="" />
 					</div>
 					<div class="heroCardContent">
 						<h3>NETWORKING <span>OPPORTUNITIES</span></h3>
 						<p>
-							Meet, mingle, & network with the world’s top innovators,
-							thought-leaders & decision-makers.
+							Spend time with fascinating people.
 						</p>
 					</div>
 				</div>
@@ -54,8 +55,7 @@
 					<div class="heroCardContent">
 						<h3>HANDS-ON <span>WORKSHOPS</span></h3>
 						<p>
-							Get hands-on experience with two full days of learning with
-							experts from across the globe!
+							Learn from the builders themselves.
 						</p>
 					</div>
 				</div>
