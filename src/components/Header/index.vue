@@ -12,10 +12,9 @@
 		<div class="proofHeroHead">
 			<h2>SECURING BLOCKCHAIN'S FUTURE</h2>
 			<p>
-				Proof of Work Summit is a much needed antidote to misleading mainstream
-				narratives around proof-of-work.  Far from being obsolete and environmentally
-				harmful, it is a revolutionary freedom technology.
-				Back to cypherpunk fundamentals!
+				A cypherpunk-grounded conference which refutes misleading
+				mainstream narratives around proof-of-work and focuses on
+				the fundamentals of this revolutionary freedom technology.
 			</p>
 		</div>
 
@@ -28,7 +27,7 @@
 					<div class="heroCardContent">
 						<h3>WORLD CLASS <span>SPEAKERS</span></h3>
 						<p>
-							The builders, the visionaries, the rebels, the troublemakers and the dreamers.
+							Hear from true builders, visionaries, rebels, troublemakers and dreamers.
 						</p>
 					</div>
 				</div>
@@ -41,7 +40,7 @@
 					<div class="heroCardContent">
 						<h3>NETWORKING <span>OPPORTUNITIES</span></h3>
 						<p>
-							Spend time with fascinating people.
+							An amazing opportunity to meet experts from around the world face-to-face.
 						</p>
 					</div>
 				</div>
