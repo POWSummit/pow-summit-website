@@ -58,16 +58,16 @@
 				},
 				{
 					"theme": "Mining",
-					"time": "10:40 - 11:00",
-					"session": "Keynote - Frank Holmes",
-					"speaker_name": "Frank Holmes"
+					"color": "blue",
+					"time": "11:30 - 12:00",
+					"session": "Mining panel #1 - Why POW is good for humanity and the world",
+					"speaker_name": "Jamie Leverton, Taras Kulyk, Ben Gagnon, Ryan Condron, moderated by Magdalena Gronowska"
 				},
 				{
 					"theme": "Mining",
-					"color": "blue",
-					"time": "11:50 - 12:20",
-					"session": "Mining panel #1 - Why POW is good for humanity and the world",
-					"speaker_name": "Jamie Leverton, Taras Kulyk, Ben Gagnon, Ryan Condron, moderated by Magdalena Gronowska"
+					"time": "12:00 - 12:20",
+					"session": "Keynote - Frank Holmes",
+					"speaker_name": "Frank Holmes"
 				},
 				{
 					"theme": "Mining",
