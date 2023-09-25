@@ -375,17 +375,27 @@
 		{
 			"image": "/img/speakers/Margie-Feng.jpg",
 			"name": "MARGIE FENG",
-			"title": "Marketing Manager, BITMAIN"
+			"title": "Marketing Manager, BITMAIN",
+			"social": {
+				"twitter": "https://twitter.com/MargieFengLOL",
+				"linkedin": "https://www.linkedin.com/in/yue-feng-08630312b/"
+			}
 		},
 		{
 			"image": "/img/speakers/Diego-Lopez-Leon.png",
 			"name": "Diego López León",
-			"title": "Core Developer, ETC Cooperative"
+			"title": "Core Developer, ETC Cooperative",
+			"social": {
+				"linkedin": "https://www.linkedin.com/in/dlopezleon/"
+			}
 		},
 		{
 			"image": "/img/speakers/Istora.jpeg",
 			"name": "Istora",
-			"title": "ETC contributor, Proof of Work enjoyer"
-		}		
+			"title": "ETC contributor, Proof of Work enjoyer",
+			"social": {
+				"twitter": "https://twitter.com/Istora_Mandiri"
+			}			
+		}
 	]
 }
