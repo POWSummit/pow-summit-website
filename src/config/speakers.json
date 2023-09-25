@@ -45,7 +45,7 @@
 				"linkedin": "https://www.linkedin.com/in/caitlin-long-/"
 			}
 		},
-        {
+        	{
 			"image": "/img/speakers/amir-taaki.png",
 			"name": " AMIR TAAKI",
 			"title": "DarkFi cryptography",
@@ -53,7 +53,11 @@
 				"twitter": "https://twitter.com/Narodism/"				
 			}
 		},
-        
+        	{
+			"image": "/img/speakers/Victor-Hou.png",
+			"name": "Victor Hou",
+			"title": "Product Director, JASMINER"
+		},        
 		{
 			"image": "/img/speakers/Frank-Holmes.png",
 			"name": "FRANK HOLMES",
