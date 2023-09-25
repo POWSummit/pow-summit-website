@@ -372,6 +372,11 @@
 			"image": "/img/speakers/Margie-Feng.png",
 			"name": "MARGIE FENG",
 			"title": "Marketing Manager, BITMAIN"
+		},
+		{
+			"image": "/img/speakers/Diego-Lopez-Leon.png",
+			"name": "Diego López León",
+			"title": "Core Developer, ETC Cooperative"
 		}
 	]
 }
