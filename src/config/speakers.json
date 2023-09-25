@@ -377,6 +377,11 @@
 			"image": "/img/speakers/Diego-Lopez-Leon.png",
 			"name": "Diego López León",
 			"title": "Core Developer, ETC Cooperative"
-		}
+		},
+		{
+			"image": "/img/speakers/Istora.jpeg",
+			"name": "Istora",
+			"title": "ETC contributor, Proof of Work enjoyer"
+		}		
 	]
 }
