@@ -103,7 +103,7 @@
 			"title": "COO, Luxor",
 			"social": {
 				"linkedin": "https://www.linkedin.com/in/ethanvera/",
-                "twitter": "https://twitter.com/ethan_vera"
+                		"twitter": "https://twitter.com/ethan_vera"
 			}
 		},
 		
@@ -125,7 +125,7 @@
 				"linkedin": "https://www.linkedin.com/in/mgronowska/"
 			}
 		},
-        {
+        	{
 			"image": "/img/speakers/Sebastien-Gouspillou.png",
 			"name": "SÉBASTIEN GOUSPILLOU",
 			"title": "CEO, BigBlock Group",
@@ -151,7 +151,7 @@
 				"linkedin": "https://www.linkedin.com/in/bryan-bishop-3a63978/"
 			}
 		},
-        {
+		{
 			"image": "/img/speakers/jarrad-hope.png",
 			"name": "JARRAD HOPE",
 			"title": "Thought leader & Co-founder, Status.im",
@@ -177,7 +177,7 @@
 				"linkedin": "https://www.linkedin.com/in/vladkostea/"
 			}
 		},
-        {
+        	{
 			"image": "/img/speakers/KZhang.png",
 			"name": "KEVIN ZHANG",
 			"title": "SVP of Business Development, Foundry",
@@ -217,13 +217,13 @@
 			"name": "IGOR BARINOV",
 			"title": "Founder, Blockscout"
 		},
-        {
+        	{
 			"image": "/img/speakers/Maxim-Orlovsky.png",
 			"name": "MAXIM ORLOVSKY",
 			"title": "LNP/BP Association, engineer of RGB and Prime",
-            "social": {
+            		"social": {
 				"twitter": "https://twitter.com/dr_orlovsky",
-                "linkedin": "https://www.linkedin.com/in/dr-orlovsky/"
+                		"linkedin": "https://www.linkedin.com/in/dr-orlovsky/"
 			}
 		},
 		{
@@ -234,7 +234,7 @@
 				"linkedin": "https://www.linkedin.com/in/adellatoulon/"
 			}
 		},
-        {
+        	{
 			"image": "/img/speakers/Parazyd.png",
 			"name": "PARAZYD",
 			"title": "Darkfi developer",
@@ -295,31 +295,13 @@
 				"linkedin": "https://www.linkedin.com/in/donmcint/"
 			}
 		},
-        {
-			"image": "/img/speakers/jay-milla.png",
-			"name": "JAY MILLA",
-			"title": "Director of Marketing, Litecoin Foundation",
-			"social": {
-				"twitter": "https://twitter.com/MillaLiraj",
-				"linkedin": "https://www.linkedin.com/in/jaymilla/"
-			}
-		},
-        {
+        	{
 			"image": "/img/speakers/Robbie-Coleman.png",
 			"name": "ROBBIE COLEMAN",
 			"title": "Creative Director, Litecoin Foundation",
 			"social": {
 				"twitter": "https://twitter.com/robertfcoleman",
 				"linkedin": "https://www.linkedin.com/in/robbiecoleman0/"
-			}
-		},
-		{
-			"image": "/img/speakers/david-schwartz.jpg",
-			"name": "DAVID SCHWARTZ",
-			"title": "Director of Strategic Partnerships, Litecoin Foundation",
-			"social": {
-				"twitter": "https://twitter.com/DaddyCool1991",
-				"linkedin": "https://www.linkedin.com/in/david-schwartz-562a346b/"
 			}
 		},
 		{
@@ -348,7 +330,7 @@
 				"twitter": "https://twitter.com/loshan1212"
 			}
 		},
-        {
+        	{
 			"image": "/img/speakers/Darcy-Daubaras.png",
 			"name": "DARCY DAUBARAS",
 			"title": "CFO, HIVE Digital Technologies",
