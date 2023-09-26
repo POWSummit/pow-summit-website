@@ -56,7 +56,10 @@
         	{
 			"image": "/img/speakers/Victor-Hou.png",
 			"name": "Victor Hou",
-			"title": "Product Director, JASMINER"
+			"title": "Product Director, JASMINER",
+			"social": {
+				"twitter": "https://twitter.com/pandaV46194503"				
+			}
 		},        
 		{
 			"image": "/img/speakers/Frank-Holmes.png",
@@ -87,7 +90,10 @@
 		{
 			"image": "/img/speakers/rachel-rose-o-leary.jpg",
 			"name": "RACHEL ROSE O'LEARY",
-			"title": "DarkFi core dev & writer"
+			"title": "DarkFi core dev & writer",
+			"social": {
+				"twitter": "https://twitter.com/lunar_mining",
+			}
 		},
 		{
 			"image": "/img/speakers/marta-piekarska.jpg",
@@ -161,14 +167,6 @@
 			}
 		},
 		{
-			"image": "/img/speakers/jonathan-wilkins.jpeg",
-			"name": "JONATHAN WILKINS",
-			"title": "CEO, Cloaked Services",
-			"social": {
-				"linkedin": "https://www.linkedin.com/in/jwilkins/"
-			}
-		},
-		{
 			"image": "/img/speakers/vlad-costea.jpg",
 			"name": "VLAD COSTEA",
 			"title": "Founder, Bitcoin Takeover Podcast",
@@ -215,7 +213,11 @@
 		{
 			"image": "/img/speakers/igor-barinov.png",
 			"name": "IGOR BARINOV",
-			"title": "Founder, Blockscout"
+			"title": "Founder, Blockscout",
+			"social": {
+				"twitter": "https://twitter.com/barinov",
+				"linkedin": "https://www.linkedin.com/in/igorbarinov/"
+			}
 		},
         	{
 			"image": "/img/speakers/Maxim-Orlovsky.png",
@@ -342,17 +344,28 @@
 		{
 			"image": "/img/speakers/alana-mediavilla.png",
 			"name": "ALANA MEDIAVILLA",
-			"title": "Filmmaker, Dirty Coin"
+			"title": "Filmmaker, Dirty Coin",
+			"social": {
+				"twitter": "https://twitter.com/AlanaMediavilla",
+				"linkedin": "https://www.linkedin.com/in/halana/"
+			}
 		},
 		{
 			"image": "/img/speakers/ben-miklozek.jpg",
 			"name": "BEN MIKLOZEK",
-			"title": "Co-Founder, Lokotech"
+			"title": "Co-Founder, Lokotech",
+			"social": {
+				"twitter": "https://twitter.com/BenMiklozek",
+				"linkedin": "https://www.linkedin.com/in/ben-m-a96043151/"
+			}
 		},
 		{
 			"image": "/img/speakers/russell_cann.png",
 			"name": "RUSSELL CANN",
-			"title": "EVP of Client Services, Core Scientific"
+			"title": "EVP of Client Services, Core Scientific",
+			"social": {
+				"linkedin": "https://www.linkedin.com/in/russell-cann-300b14aa/"
+			}
 		},
 		{
 			"image": "/img/speakers/Margie-Feng.png",
