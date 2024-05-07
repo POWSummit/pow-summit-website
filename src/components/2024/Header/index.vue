@@ -26,7 +26,7 @@ cypherpunk-based celebration of the revolutionary freedom technology underlying 
 					<div class="heroCardContent">
 						<h3>WORLD CLASS <span>SPEAKERS</span></h3>
 						<p>
-							Watch our video archive on our<a href="https://www.youtube.com/@POWSummit/"> YouTube channel</a> featuring Phil Zimmermann, Jameson Lopp, Charlie Lee, Caitlin Long & Jarrad Hope & more...
+							Watch our 2023 video archive on our <a href="https://www.youtube.com/playlist?list=PL6M4J55WQYzxm8Glh8aTIYATArK90hf51">YouTube channel</a> featuring Phil Zimmermann, Jameson Lopp, Charlie Lee, Caitlin Long & Jarrad Hope & more...
 						</p>
 					</div>
 				</div>
@@ -39,7 +39,7 @@ cypherpunk-based celebration of the revolutionary freedom technology underlying 
 					<div class="heroCardContent">
 						<h3>NETWORKING <span>OPPORTUNITIES</span></h3>
 						<p>
-							Meet & interact with speakers & guests at the conference or at our after-hours events. <a href="https://powsummit.com/photos">See our photos here.</a> 
+							Meet & interact with speakers & guests at the conference or at our after-hours events. <a href="https://powsummit.com/photos">See our 2023 photos here.</a> 
 						</p>
 					</div>
 				</div>
