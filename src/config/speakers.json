@@ -20,21 +20,21 @@
 			}
 		},
 		{
-			"image": "/img/speakers/Magdalena-Gronowska.png",
-			"name": "MAGDALENA GRONOWSKA",
-			"title": "Advisor, PRTI: integrated energy & bitcoin mining operation",
-			"social": {
-				"twitter": "https://twitter.com/Crypto_Mags",
-				"linkedin": "https://www.linkedin.com/in/mgronowska/"
-			}
-		},
-		{
 			"image": "/img/speakers/vlad-costea.jpg",
 			"name": "VLAD COSTEA",
 			"title": "Founder, Bitcoin Takeover Podcast",
 			"social": {
 				"twitter": "https://twitter.com/TheVladCostea",
 				"linkedin": "https://www.linkedin.com/in/vladkostea/"
+			}
+		},
+		{
+			"image": "/img/speakers/Magdalena-Gronowska.png",
+			"name": "MAGDALENA GRONOWSKA",
+			"title": "Advisor, PRTI: integrated energy & bitcoin mining operation",
+			"social": {
+				"twitter": "https://twitter.com/Crypto_Mags",
+				"linkedin": "https://www.linkedin.com/in/mgronowska/"
 			}
 		},
 		{
