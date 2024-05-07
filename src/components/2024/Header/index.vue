@@ -14,11 +14,10 @@
 			<p>
 POW Summit is an annual event bringing together the major Proof of Work (POW) communities for a unique
 cypherpunk-based celebration of the revolutionary freedom technology underlying Bitcoin and other cryptocurrencies.
-
+			</p>
+			<p>
 The “Bitcoin Renaissance” AKA “Bitcoin Season 2” has been underway for the last year or so and is an exhilarating
 validation of Bitcoin and POW in general for a broad set of use-cases which have historically only happened on other chains. 
-
-POW Summit 2024 will be held in Frankfurt, Germany, on the weekend of September 28-29 (during Oktoberfest!)
 			</p>
 		</div>
 
