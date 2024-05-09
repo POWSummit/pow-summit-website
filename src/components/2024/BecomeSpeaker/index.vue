@@ -5,7 +5,7 @@
 			<p>
 				If you would like to speak at POW Summit 2024,
 				please use our Call-for-Proposals page to
-				propose your content:
+				make a proposal:
 			</p>
 		    <br/>
 			<a
