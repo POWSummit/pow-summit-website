@@ -17,7 +17,7 @@
 					</p>
 				</div>
 				<div class="col-lg-6">
-					<img src="@/assets/images/venue.png" alt="" />
+					<img src="@/assets/images/venue-2024.png" alt="" />
 				</div>
 			</div>
 		</div>
