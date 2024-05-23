@@ -17,7 +17,7 @@ AKA “Bitcoin Season 2” has been underway for the last year or so and is an e
 		</div>
 
 		<div class="row">
-			<div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
+			<div class="col-lg-3 col-md-3 col-sm-6 col-12 px-md-3">
 				<div class="heroCard">
 					<div class="heroCardImg">
 						<img src="@/assets/images/heroImg1.png" alt="" />
@@ -30,7 +30,7 @@ AKA “Bitcoin Season 2” has been underway for the last year or so and is an e
 					</div>
 				</div>
 			</div>
-			<div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
+			<div class="col-lg-3 col-md-3 col-sm-6 col-12 px-md-3">
 				<div class="heroCard">
 					<div class="heroCardImg">
 						<img src="@/assets/images/heroImg2.png" alt="" />
@@ -43,7 +43,20 @@ AKA “Bitcoin Season 2” has been underway for the last year or so and is an e
 					</div>
 				</div>
 			</div>
-			<div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
+        <div class="col-lg-3 col-md-3 col-sm-6 col-12 px-md-3">
+				<div class="heroCard">
+					<div class="heroCardImg">
+						<img src="@/assets/images/heroImg2.png" alt="" />
+					</div>
+					<div class="heroCardContent">
+						<h3>NETWORKING <span>OPPORTUNITIES</span></h3>
+						<p>
+							Meet & interact with speakers & guests at the conference or at our after-hours events. <a href="https://powsummit.com/photos">See our 2023 photos here.</a> 
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3 col-md-3 col-sm-6 col-12 px-md-3">
 				<div class="heroCard">
 					<div class="heroCardImg">
 						<img src="@/assets/images/heroImg3.png" alt="" />
