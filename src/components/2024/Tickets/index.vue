@@ -36,7 +36,7 @@
 			</div>
 						<a
 				href="https://app.eukapay.com/templates/tmp_AjlmxqkN19bHy4hE7gNZsBtH2I"
-				class="text-decoration-none"
+				class="buyWithCyrpto"
 				target="_blank"
 			>
 				<button> BUY WITH CRYPTO</button>
