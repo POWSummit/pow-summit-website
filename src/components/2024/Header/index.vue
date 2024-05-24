@@ -23,7 +23,7 @@ The broad set of use cases becoming available on Bitcoin's base layer and a stun
 						<img src="@/assets/images/heroImg1.png" alt="" />
 					</div>
 					<div class="heroCardContent">
-						<h3>Proof of Scale <span>(Bitcoin L2s & Sidechains) </span></h3>
+						<h3>Proof of Scale </h3><h4><span>(Bitcoin L2s & Sidechains) </span></h4>
 						<p>
 							Join industry veterans and newcomers in discussing competing solutions for technical and economic tradeoffs in the hottest sector of development and capital investment.
 
