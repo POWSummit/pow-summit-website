@@ -23,7 +23,7 @@ The broad set of use cases becoming available on Bitcoin's base layer and a stun
 						<img src="@/assets/images/heroImg1.png" alt="" />
 					</div>
 					<div class="heroCardContent">
-						<h3>Proof of Scale </h3><h4><span>(Bitcoin L2s & Sidechains) </span></h4>
+						<h3>Proof of Scale </h3>
 						<p>
 							Join industry veterans and newcomers in discussing competing solutions for technical and economic tradeoffs in the hottest sector of development and capital investment.
 
@@ -38,7 +38,7 @@ The broad set of use cases becoming available on Bitcoin's base layer and a stun
 						<img src="@/assets/images/heroImg2.png" alt="" />
 					</div>
 					<div class="heroCardContent">
-						<h3>Proof of Utility </h3><h4><span>(Emerging Protocols & Utilities)</span></h4>
+						<h3>Proof of Utility </h3>
 						<p>
 							Learn about the emerging protocols and diverse use cases competing for scarce block space on the base layer and L2s.
 
@@ -53,7 +53,7 @@ The broad set of use cases becoming available on Bitcoin's base layer and a stun
 						<img src="@/assets/images/heroImg3.png" alt="" />
 					</div>
 					<div class="heroCardContent">
-						<h3>Proof of Sustainability </h3><h4><span>(Mining and Environment)</span></h4>
+						<h3>Proof of Sustainability </h3>
 						<p>
 							Discover innovative miner strategies for environmentally sustainable solutions driving technology forward in the face of hostile governments and regulators.
 
@@ -68,7 +68,7 @@ The broad set of use cases becoming available on Bitcoin's base layer and a stun
 						<img src="@/assets/images/heroImg4.png" alt="" />
 					</div>
 					<div class="heroCardContent">
-						<h3>Proof of Human Rights </h3><h4><span>(Privacy, Fungibility, Legal Issues)</span></h4>
+						<h3>Proof of Human Rights </h3>
 						<p>
 							Recent prosecutorial and legislative actions in the US and Europe have made the credo "Cypherpunks write code" to secure privacy, fungibility, and autonomy more important than ever. 
 						</p>
