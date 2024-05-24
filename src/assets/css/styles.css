@@ -5,6 +5,8 @@
 .proofHeroSecion {
 	background: #000000;
 	background-image: url(@/assets/images/website-bg-image.jpg) !important;
+	  background-size: cover;
+
 }
 
 /* navbar starts here */
