@@ -27,15 +27,7 @@
 				"linkedin": "https://www.linkedin.com/in/danielsbatten/"
 			}
 		},
-		{
-			"image": "/img/speakers/phil-zimmermann.jpg",
-			"name": "PHIL ZIMMERMANN",
-			"title": "Creator, Pretty Good Privacy (PGP)",
-			"social": {
-				"linkedin": "https://www.linkedin.com/in/philip-zimmermann-02a3a38b/",
-				"website": "https://philzimmermann.com/EN/background/index.html"
-			}
-		},
+		
 		{
 			"image": "/img/speakers/SergioDemian.jpg",
 			"name": "Sergio Demian Lerner",
@@ -43,6 +35,15 @@
 			"social": {
 				"linkedin": "https://www.linkedin.com/in/selerner/",
 				"twitter": "https://x.com/SDLerner"
+			}
+		},
+		{
+			"image": "/img/speakers/phil-zimmermann.jpg",
+			"name": "PHIL ZIMMERMANN",
+			"title": "Creator, Pretty Good Privacy (PGP)",
+			"social": {
+				"linkedin": "https://www.linkedin.com/in/philip-zimmermann-02a3a38b/",
+				"website": "https://philzimmermann.com/EN/background/index.html"
 			}
 		},
 		{
@@ -100,7 +101,7 @@
 			}
 		},
 		{
-			"image": "/img/speakers/michael-parenti.jpg",
+			"image": "/img/speakers/michaelp.jpg",
 			"name": "MICHAEL PARENTI",
 			"title": "Cryptorealist & Ecosystem Integrator, Parallelní Polis",
 			"social": {
