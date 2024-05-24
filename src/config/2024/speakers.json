@@ -37,6 +37,15 @@
 			}
 		},
 		{
+			"image": "/img/speakers/SergioDemian.jpg",
+			"name": "Sergio Demian Lerner",
+			"title": "Chief of Innovation, RootstockLabs",
+			"social": {
+				"linkedin": "https://www.linkedin.com/in/selerner/",
+				"twitter": "https://x.com/SDLerner"
+			}
+		},
+		{
 			"image": "/img/speakers/2024/dennis-porter.jpg",
 			"name": "DENNIS PORTER",
 			"title": "CEO and Co-Founder, Satoshi Action Fund",
