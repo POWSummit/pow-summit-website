@@ -757,6 +757,10 @@
 /* get tickets section starts here */
 .getTicketSection {
 	background: #00d55a;
+	background-image: url(@/assets/images/pow-sprocket-w-trans.png) !important;
+	background-repeat: no-repeat;
+	  background-attachment: fixed;
+  background-position: -500px,0px,0px,0px;
 }
 
 .getTicketContainer {
