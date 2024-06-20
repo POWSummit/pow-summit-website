@@ -364,6 +364,7 @@
 .ourSpeakersSection {
 	background: #0085fe;
 	background-image: url(@/assets/images/pow-sprocket-w-trans.png) !important;
+	background-repeat: no-repeat;
 
 }
 
