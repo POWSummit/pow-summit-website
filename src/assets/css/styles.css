@@ -977,7 +977,7 @@
 	font-weight: 700;
 	font-size: 60px;
 	letter-spacing: 0.05em;
-	color: #ffffff;
+	color: #000;
 	margin-bottom: 10px;
 }
 
@@ -988,12 +988,12 @@
 	font-weight: 400;
 	font-size: 25px;
 	line-height: 32px;
-	color: #ffffff;
+	color: #000;
 	margin: 0 auto 30px;
 }
 
 .summitVenueContainer p a {
-	color: #000000;
+	color: #FC6310;
 	text-decoration: none;
 	font-weight: 500;
 }
