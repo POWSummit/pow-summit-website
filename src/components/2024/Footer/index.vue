@@ -28,6 +28,35 @@
 					<img src="@/assets/images/footer-logo1.png" alt="" />
 				</a>
 			</div>
+			<div class="socialMediaIcons">
+		
+				<a href="https://twitter.com/ETCCooperative">
+					<img src="@/assets/images/twitter.svg" alt="" />
+					@ETCCooperative
+				</a>
+				<a href="https://twitter.com/LTCFoundation">
+					<img src="@/assets/images/twitter.svg" alt="" />
+					@LTCFoundation
+				</a>
+
+				<a href="https://www.linkedin.com/company/etc-cooperative/">
+					<img src="@/assets/images/linkedin.svg" alt="" />
+					ETC Cooperative
+				</a>
+				<a href="https://www.linkedin.com/company/litecoin-foundation/">
+					<img src="@/assets/images/linkedin.svg" alt="" />
+					Litecoin Foundation
+				</a>
+				<a href="https://www.instagram.com/etccooperative/">
+					<img src="@/assets/images/instagram.svg" alt="" />
+					@ETCCooperative
+				</a>
+				<a href="https://www.facebook.com/etccooperative2023/">
+					<img src="@/assets/images/facebook.svg" alt="" />
+					ETC Cooperative Facebook
+				</a>
+			</div>
+<h1>POW SOCIAL ACCOUNTS</h1>
 <div class="socialMediaIcons">
 				<a href="https://twitter.com/PowSummit">
 					<img src="@/assets/images/twitter.svg" alt="" />
@@ -49,29 +78,6 @@
 				<a href="https://www.instagram.com/powsummit/">
 					<img src="@/assets/images/instagram.svg" alt="" />
 					POW
-				</a>
-			</div>
-			<div class="socialMediaIcons">
-				<a href="https://twitter.com/PowSummit">
-					<img src="@/assets/images/twitter.svg" alt="" />
-					@POWSummit
-				</a>
-				<a href="https://twitter.com/ETCCooperative">
-					<img src="@/assets/images/twitter.svg" alt="" />
-					@ETCCooperative
-				</a>
-				<a href="https://twitter.com/LTCFoundation">
-					<img src="@/assets/images/twitter.svg" alt="" />
-					@LTCFoundation
-				</a>
-
-				<a href="https://www.linkedin.com/company/etc-cooperative/">
-					<img src="@/assets/images/linkedin.svg" alt="" />
-					ETC Cooperative
-				</a>
-				<a href="https://www.linkedin.com/company/litecoin-foundation/">
-					<img src="@/assets/images/linkedin.svg" alt="" />
-					Litecoin Foundation
 				</a>
 			</div>
 		</div>
