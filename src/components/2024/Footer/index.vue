@@ -77,7 +77,7 @@
 				</a>
 				<a href="https://www.instagram.com/powsummit/">
 					<img src="@/assets/images/instagram.svg" alt="" />
-					POW
+					POW Instagram
 				</a>
 			</div>
 		</div>
