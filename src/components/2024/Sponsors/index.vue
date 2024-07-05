@@ -3,7 +3,7 @@
 		<h1>Sponsors</h1>
 		<div class="activeSponsorsContainer">
 			<div class="diamond-plus">
-				<h3>Diamond Plus</h3>
+				<h3>Title Sponsor</h3>
 				<div>
 					
 			
