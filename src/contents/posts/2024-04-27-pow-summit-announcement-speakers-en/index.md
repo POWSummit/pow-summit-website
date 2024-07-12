@@ -1,7 +1,7 @@
 ---
 id: "2024-04-27-pow-summit-announcement-speakers-en"
 title: "Unleashing the Power of Proof-of-Work: Join Us in Frankfurt for the Second Annual POW Summit!"
-author: Donald McIntyre
+author: Andrew Dick
 featuredImage: pow2024-blog-post.png
 tags: [Announcement]
 ---
