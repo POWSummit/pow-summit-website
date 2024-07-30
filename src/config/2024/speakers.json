@@ -18,6 +18,15 @@
 				"linkedin": "https://www.linkedin.com/in/chocobo/"
 			}
 		},
+{
+			"image": "/img/speakers/phil-zimmermann.jpg",
+			"name": "PHIL ZIMMERMANN",
+			"title": "Creator, Pretty Good Privacy (PGP)",
+			"social": {
+				"linkedin": "https://www.linkedin.com/in/philip-zimmermann-02a3a38b/",
+				"website": "https://philzimmermann.com/EN/background/index.html"
+			}
+		},
 		{
 			"image": "/img/speakers/2024/daniel-batten.png",
 			"name": "DANIEL BATTEN",
@@ -25,6 +34,16 @@
 			"social": {
 				"twitter": "https://x.com/DSBatten",
 				"linkedin": "https://www.linkedin.com/in/danielsbatten/"
+			}
+		},
+
+		{
+			"image": "/img/speakers/2024/dennis-porter.jpg",
+			"name": "DENNIS PORTER",
+			"title": "CEO and Co-Founder, Satoshi Action Fund",
+			"social": {
+				"twitter": "https://twitter.com/Dennis_Porter_",
+				"linkedin": "https://www.linkedin.com/in/dennis-porter-396335220/"
 			}
 		},
 		
@@ -37,25 +56,25 @@
 				"twitter": "https://x.com/SDLerner"
 			}
 		},
+
 		{
-			"image": "/img/speakers/phil-zimmermann.jpg",
-			"name": "PHIL ZIMMERMANN",
-			"title": "Creator, Pretty Good Privacy (PGP)",
+			"image": "/img/speakers/RenaShah.jpg",
+			"name": "RENA SHAH",
+			"title": "COO, Trust Machines",
 			"social": {
-				"linkedin": "https://www.linkedin.com/in/philip-zimmermann-02a3a38b/",
-				"website": "https://philzimmermann.com/EN/background/index.html"
+				"twitter": "https://x.com/renapshah"
 			}
 		},
-		{
-			"image": "/img/speakers/2024/dennis-porter.jpg",
-			"name": "DENNIS PORTER",
-			"title": "CEO and Co-Founder, Satoshi Action Fund",
+{
+			"image": "/img/speakers/PaulSztorc.jpg",
+			"name": "PAUL SZTORC",
+			"title": "Founder and CEO, Layer Two Labs",
 			"social": {
-				"twitter": "https://twitter.com/Dennis_Porter_",
-				"linkedin": "https://www.linkedin.com/in/dennis-porter-396335220/"
+				"linkedin": "https://www.linkedin.com/in/paul-sztorc/",
+				"twitter": "https://x.com/truthcoin"
 			}
 		},
-		{
+	{
 			"image": "/img/speakers/2024/tor-ekeland.png",
 			"name": "TOR EKELAND",
 			"title": "Trial & Appellate Lawyer",
@@ -64,6 +83,8 @@
 				"linkedin": "https://www.linkedin.com/in/tor-ekeland-6bb36024/"
 			}
 		},
+
+		
 		{
 			"image": "/img/speakers/2024/JulianDuran-2.jpg",
 			"name": "JULLIAN DURAN",
@@ -73,6 +94,79 @@
 				"linkedin": "https://www.linkedin.com/in/jullian-duran-178547a2/"
 			}
 		},
+
+{
+			"image": "/img/speakers/2024/BradVanVoorhees.jpg",
+			"name": "BRAD VAN VOORHEES",
+			"title": "Sustainable Bitcoin Protocol",
+			"social": {
+				"twitter": "https://x.com/bradford_degot",
+				"linkedin": "https://www.linkedin.com/in/bvanvoorhees/"
+			}
+		},
+
+{
+			"image": "/img/speakers/2024/SaschaGrumbach.png",
+			"name": "SASCHA GRUMBACH",
+			"title": "CEO, Green Mining Dao",
+			"social": {
+				"linkedin": "https://www.linkedin.com/in/sascha-grumbach/"
+			}
+		},
+{
+			"image": "/img/speakers/2024/JarradHope.png",
+			"name": "JARRAD HOPE",
+			"title": "Cofounder of Status and Logos",
+			"social": {
+				"twitter": "https://twitter.com/jarradhope_/",
+				"linkedin": "https://www.linkedin.com/in/jarradhope/"
+			}
+		},
+{
+			"image": "/img/speakers/2024/RahimTaghizadegan.jpg",
+			"name": "RAHIM TAGHIZADEGAN",
+			"title": "Author, Austrian Economic Scholar",
+			"social": {
+				"linkedin": "https://www.linkedin.com/in/rahimt/"
+			}
+		},
+
+{
+			"image": "/img/speakers/2024/AlexeiZamyatin.jpg",
+			"name": "ALEXEI ZAMYATIN ",
+			"title": "Cofounder, BOB (Build on Bitcoin)",
+			"social": {
+				"linkedin": "https://x.com/alexeizamyatin"
+			}
+		},
+{
+			"image": "/img/speakers/2024/EdanYago.jpg",
+			"name": "EDAN YAGO",
+			"title": "Sovryn",
+			"social": {
+				"twitter": "https://x.com/EdanYago",
+				"linkedin": "https://www.linkedin.com/in/edanyago/"
+			}
+		},
+{
+			"image": "/img/speakers/2024/⁨MatthiasTarasiewicz⁩.jpg",
+			"name": "⁨MATTHIAS TARASIEWICZ",
+			"title": "ead of Research at RIAT Institute",
+			"social": {
+				"linkedin": "https://www.linkedin.com/in/parasew/"
+			}
+		},
+
+{
+			"image": "/img/speakers/2024/LyudmylaKozlovska.jpg",
+			"name": "LYUDMYLA KOZLOVSKA",
+			"title": "President of the Open Dialogue Foundation",
+			"social": {
+				"linkedin": "https://www.linkedin.com/in/lyudmyla-kozlovska-3b1714296/"
+			}
+		},
+
+
 		{
 			"image": "/img/speakers/2024/Patrick-Lodder.jpg",
 			"name": "PATRICK LODDER",
@@ -82,13 +176,30 @@
 				"linkedin": "https://www.linkedin.com/in/pplodder/"
 			}
 		},
-		{
-			"image": "/img/speakers/vlad-costea.jpg",
-			"name": "VLAD COSTEA",
-			"title": "Founder, Bitcoin Takeover Podcast",
+{
+			"image": "/img/speakers/2024/AaronFeickert.jpg",
+			"name": "AARON FEICKERT",
+			"title": "Head of Research at Cypher Stack",
 			"social": {
-				"twitter": "https://twitter.com/TheVladCostea",
-				"linkedin": "https://www.linkedin.com/in/vladkostea/"
+				"linkedin": "https://www.linkedin.com/in/aaron-feickert/"
+			}
+		},
+
+{
+			"image": "/img/speakers/BendeWaal.png",
+			"name": "BEN DE WAAL",
+			"title": "Anarchist since the 1990s; Bitcoiner since 2010",
+			"social": {
+				"twitter": "https://x.com/ben_dewaal?lang=en"			}
+		},
+
+
+		{
+			"image": "/img/speakers/SamanthadeWaal.jpg",
+			"name": "SAMANTHA DE WAAL",
+			"title": "13 year old lifelong Bitcoiner",
+			"social": {
+				"twitter": "https://x.com/samthebtckid"
 			}
 		},
 		{
@@ -98,6 +209,24 @@
 			"social": {
 				"twitter": "https://twitter.com/Crypto_Mags",
 				"linkedin": "https://www.linkedin.com/in/mgronowska/"
+			}
+		},
+{
+			"image": "/img/speakers/vlad-costea.jpg",
+			"name": "VLAD COSTEA",
+			"title": "Founder, Bitcoin Takeover Podcast",
+			"social": {
+				"twitter": "https://twitter.com/TheVladCostea",
+				"linkedin": "https://www.linkedin.com/in/vladkostea/"
+			}
+		},
+{
+			"image": "/img/speakers/michaelp.jpg",
+			"name": "MICHAEL PARENTI",
+			"title": "Cryptorealist & Ecosystem Integrator, Parallelní Polis",
+			"social": {
+				"twitter": "https://twitter.com/exiledsurfer",
+				"linkedin": "https://www.linkedin.com/in/michaelparenti/"
 			}
 		},
 		{
@@ -110,6 +239,15 @@
 			}
 		},
 		{
+			"image": "/img/speakers/david-schwartz.jpg",
+			"name": "DAVID SCHWARTZ",
+			"title": "Strategic Partnerships Director, Litecoin Foundation",
+			"social": {
+				"twitter": "https://twitter.com/DaddyCool1991",
+				"linkedin": "https://www.linkedin.com/in/david-schwartz-562a346b/"
+			}
+},
+		{
 			"image": "/img/speakers/alan-austin.jpg",
 			"name": "ALAN AUSTIN",
 			"title": "Managing Director, Litecoin Foundation",
@@ -118,16 +256,7 @@
 				"linkedin": "https://www.linkedin.com/in/alangaustin/"
 			}
 		},
-		{
-			"image": "/img/speakers/michaelp.jpg",
-			"name": "MICHAEL PARENTI",
-			"title": "Cryptorealist & Ecosystem Integrator, Parallelní Polis",
-			"social": {
-				"twitter": "https://twitter.com/exiledsurfer",
-				"linkedin": "https://www.linkedin.com/in/michaelparenti/"
-			}
-		},
-		{
+{
 			"image": "/img/speakers/donald-mcintyre.png",
 			"name": "DONALD MCINTYRE",
 			"title": "Senior Editor, ETC Cooperative",
@@ -136,14 +265,15 @@
 				"linkedin": "https://www.linkedin.com/in/donmcint/"
 			}
 		},
+		
 		{
-			"image": "/img/speakers/david-schwartz.jpg",
-			"name": "DAVID SCHWARTZ",
-			"title": "Strategic Partnerships Director, Litecoin Foundation",
+			"image": "/img/speakers/AnitaPosch.jpg",
+			"name": "ANITA POSCH",
+			"title": "Founder Bitcoin for Fairness ",
 			"social": {
-				"twitter": "https://twitter.com/DaddyCool1991",
-				"linkedin": "https://www.linkedin.com/in/david-schwartz-562a346b/"
+				"twitter": "https://x.com/AnitaPosch",
+				"linkedin": "https://www.linkedin.com/in/anitaposch"
 			}
-		}
+				}
 	]
 }
