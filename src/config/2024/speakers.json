@@ -255,7 +255,7 @@
 				"twitter": "https://twitter.com/alangaustin",
 				"linkedin": "https://www.linkedin.com/in/alangaustin/"
 			}
-		},
+		}, 
 {
 			"image": "/img/speakers/donald-mcintyre.png",
 			"name": "DONALD MCINTYRE",
@@ -264,16 +264,8 @@
 				"twitter": "https://twitter.com/ETCPOW",
 				"linkedin": "https://www.linkedin.com/in/donmcint/"
 			}
-		},
+		}
 		
-		{
-			"image": "/img/speakers/AnitaPosch.jpg",
-			"name": "ANITA POSCH",
-			"title": "Founder Bitcoin for Fairness ",
-			"social": {
-				"twitter": "https://x.com/AnitaPosch",
-				"linkedin": "https://www.linkedin.com/in/anitaposch"
-			}
-				}
+		
 	]
 }
