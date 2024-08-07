@@ -9,7 +9,6 @@
 	<Agenda />
 	<Tickets />
 
-	<div class="ml-embedded" data-form="124TOn"></div>
 
 	<Sponsors />
 	<MediaPartners />
