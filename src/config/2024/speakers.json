@@ -104,7 +104,14 @@
 				"linkedin": "https://www.linkedin.com/in/bvanvoorhees/"
 			}
 		},
-
+{
+			"image": "/img/speakers/SamanthadeWaal.jpg",
+			"name": "SAMANTHA DE WAAL",
+			"title": "13 year old lifelong Bitcoiner",
+			"social": {
+				"twitter": "https://x.com/samthebtckid"
+			}
+		},
 {
 			"image": "/img/speakers/2024/SaschaGrumbach.png",
 			"name": "SASCHA GRUMBACH",
@@ -130,6 +137,14 @@
 				"linkedin": "https://www.linkedin.com/in/rahimt/"
 			}
 		},
+{
+			"image": "/img/speakers/2024/ORKUN.jpg",
+			"name": "ORKUN MAHIR KILIÇ",
+			"title": "CEO of Chainway Labs",
+			"social": {
+				"twitter": "https://x.com/0x_orkun"
+			}
+		},
 
 {
 			"image": "/img/speakers/2024/AlexeiZamyatin.jpg",
@@ -149,14 +164,39 @@
 			}
 		},
 {
-			"image": "/img/speakers/2024/⁨MatthiasTarasiewicz⁩.jpg",
-			"name": "⁨MATTHIAS TARASIEWICZ",
-			"title": "ead of Research at RIAT Institute",
+			"image": "/img/speakers/2024/U+2068MatthiasTarasiewiczU+2069.jpg",
+			"name": "MATTHIAS TARASIEWICZ",
+			"title": "Head of Research at RIAT Institute",
 			"social": {
 				"linkedin": "https://www.linkedin.com/in/parasew/"
 			}
 		},
-
+{
+			"image": "/img/speakers/2024/Francisco.jpg",
+			"name": "FRANCISCO CABANAS",
+			"title": "aka ArcticMine, founder Getmonero.org",
+			"social": {
+				"web": "https://www.getmonero.org/"
+			}
+		},
+{
+			"image": "/img/speakers/2024/MykolaSiusko.jpg",
+			"name": "MYKOLA SIIUSKO",
+			"title": "Core Contributor at Web3Privacy Now",
+			"social": {
+				"twitter": "https://x.com/nicksvyaznoy",
+				"linkedin": "http://linkedin.com/in/siusko/"
+			}
+		},
+{
+			"image": "/img/speakers/j-gdanski.png",
+			"name": "J. GDANSKI",
+			"title": "CEO of Evertas",
+			"social": {
+				"twitter": "https://x.com/gdanskij",
+				"linkedin": "https://linkedin.com/in/gdanskij"
+			}
+		},
 {
 			"image": "/img/speakers/2024/LyudmylaKozlovska.jpg",
 			"name": "LYUDMYLA KOZLOVSKA",
@@ -165,7 +205,22 @@
 				"linkedin": "https://www.linkedin.com/in/lyudmyla-kozlovska-3b1714296/"
 			}
 		},
-
+{
+			"image": "/img/speakers/2024/BotaJardemalie.jpg",
+			"name": "BOTA JARDEMAILE",
+			"title": "Human Rights Lawyer, Refugee",
+			"social": {
+				"twitter": "https://x.com/jardemalie"
+			}
+		},
+{
+			"image": "/img/speakers/2024/Theo_Goodman.jpg",
+			"name": "THEO GOODMAN",
+			"title": "Art Chad",
+			"social": {
+				"twitter": "https://x.com/theog__"
+			}
+		},
 
 		{
 			"image": "/img/speakers/2024/Patrick-Lodder.jpg",
@@ -192,20 +247,46 @@
 			"social": {
 				"twitter": "https://x.com/ben_dewaal?lang=en"			}
 		},
-
-
-		{
-			"image": "/img/speakers/SamanthadeWaal.jpg",
-			"name": "SAMANTHA DE WAAL",
-			"title": "13 year old lifelong Bitcoiner",
+{
+			"image": "/img/speakers/2024/barbaglio.jpg",
+			"name": "STEFANIA BARBAGLIO",
+			"title": "Founder, FinancialFox Podcast",
 			"social": {
-				"twitter": "https://x.com/samthebtckid"
+				"twitter": "https://x.com/stefixy",
+				"linkedin": "https://www.linkedin.com/in/stefaniabarbaglio/"			}
+		},
+
+{
+			"image": "/img/speakers/2024/kerrywashington.jpg",
+			"name": "KERRY WASHINGTON",
+			"title": "GM Litewallet",
+			"social": {
+				"twitter": "https://x.com/bigkerrytweets",
+				"linkedin": "https://www.linkedin.com/in/kerrycwashington/"
 			}
 		},
-		{
-			"image": "/img/speakers/Magdalena-Gronowska.png",
+{
+			"image": "/img/speakers/2024/JulianLen.png",
+			"name": "JULIAN LEN",
+			"title": "Researcher / Developer at Rootstock Labs",
+			"social": {
+				"twitter": "",
+				"linkedin": ""
+			}
+		},
+{
+			"image": "/img/speakers/2024/PatricioGallardo.jpg",
 			"name": "MAGDALENA GRONOWSKA",
 			"title": "Advisor, PRTI: integrated energy & bitcoin mining operation",
+			"social": {
+				"twitter": "https://twitter.com/Crypto_Mags",
+				"linkedin": "https://www.linkedin.com/in/mgronowska/"
+			}
+		},		
+		{
+			"image": "/img/speakers/Magdalena-Gronowska.png",
+			"name": "PATRICIO GALLARDO",
+			"title": "Researcher at Rootstock Labs",
 			"social": {
 				"twitter": "https://twitter.com/Crypto_Mags",
 				"linkedin": "https://www.linkedin.com/in/mgronowska/"
@@ -227,6 +308,16 @@
 			"social": {
 				"twitter": "https://twitter.com/exiledsurfer",
 				"linkedin": "https://www.linkedin.com/in/michaelparenti/"
+			}
+		},
+
+{
+			"image": "/img/speakers/ChrisSeedor.png",
+			"name": "CHRIS SEEDOR",
+			"title": "CEO of Bitsurance",
+			"social": {
+				"twitter": "https://x.com/coinjoined",
+				"linkedin": "https://www.linkedin.com/company/bitsurance-ug/"
 			}
 		},
 		{
