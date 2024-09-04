@@ -20,7 +20,7 @@ Embracing the Cypherpunk Spirit
 
 The POW Summit aims to revive and embody the principles of cypherpunks, the pioneers of the blockchain revolution. Attendees will have the opportunity to hear from leading experts on a wide range of topics. Notable speakers include:
 
-- **Jameson Lopp** - Professional Cypherpunk, [lopp.net](http://www.lopp.net)
+- **Jameson Lopp** - Professional Cypherpunk, [lopp.net](https://www.lopp.net)
 - **Charlie Lee** - Founder of Litecoin
 - **Daniel Batten** - ClimateTech Investor
 - **Sergio Lerner** - Chief of Innovation, RootstockLabs
