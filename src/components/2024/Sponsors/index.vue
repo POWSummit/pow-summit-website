@@ -3,7 +3,14 @@
 		<h1>Sponsors</h1>
 		<div class="activeSponsorsContainer">
 			
-
+<div class="platinum">
+				<h3>Platinum</h3>
+						<div>
+					<a target="_blank" href="https://www.hivedigitaltechnologies.com/">
+						<img src="@/assets/images/hive.png" alt="hive digital technologies" />
+					</a>
+				</div>
+			</div>
 			<div class="silver">
 				<h3>Silver</h3>
 						<div>
