@@ -322,13 +322,22 @@
 				"linkedin": "https://www.linkedin.com/in/alangaustin/"
 			}
 		}, 
-{
-			"image": "/img/speakers/donald-mcintyre.png",
+		{
+			"image": "/img/speakers/etc-bw.jpg",
 			"name": "DONALD MCINTYRE",
 			"title": "Senior Editor, ETC Cooperative",
 			"social": {
 				"twitter": "https://x.com/RocketETC",
 				"linkedin": "https://www.linkedin.com/in/donmcint/"
+			}
+		}, 
+{
+			"image": "/img/speakers/2024/nickspanos.jpg",
+			"name": "NICK SPANOS",
+			"title": "Bitcoin Pioneer, Founder of Bitcoin & Blockchain Centers Worldwide",
+			"social": {
+				"twitter": "https://x.com/nickspanos",
+				"linkedin": "https://www.linkedin.com/in/nick-spanos/"
 			}
 		}
 		

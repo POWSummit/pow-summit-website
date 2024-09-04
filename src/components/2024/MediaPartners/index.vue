@@ -2,6 +2,11 @@
 	<section class="mediaPartnersSection">
 		<h1>Media Sponsors</h1>
 		<div class="mediaPartnersContainer">
+			<a target="_blank" href="https://cointelegraph.com/">
+				<img src="@/assets/images/CTlogoBlackYellowtag.png" alt="Coin Telegraph" />
+			</a>
+		</div>
+		<div class="mediaPartnersContainer">
 			<a target="_blank" href="https://icoholder.com/">
 				<img src="@/assets/images/icoholder.png" alt="Icoholder" />
 			</a>
