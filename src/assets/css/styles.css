@@ -1113,6 +1113,10 @@
 	font-size: 28px;
 	font-weight: 700;
 }
+.assocatedEventsSection a {
+	color: #00d55a;
+}
+
 
 .assocatedEventsSection h5 {
 	font-size: 25px;
