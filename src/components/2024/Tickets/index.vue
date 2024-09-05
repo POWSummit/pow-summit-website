@@ -65,6 +65,7 @@
 					<p>
 						<a href="https://tix.hcpp.cz/24/redeem?voucher=POW24" target="_blank">Hackers Congress Paralelní Polis</a> is a 3-day international conference on freedom, cryptoanarchy, decentralized finances, hacking and tech | October 4-6, 2024
 					</p>
+					<a href="https://tix.hcpp.cz/24/redeem?voucher=POW24" class="ticketCard" target="_blank"><button>GET YOUR TICKET</button></a>
 				</div>
 			</div>
 		</div>
