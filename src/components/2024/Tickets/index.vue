@@ -48,7 +48,7 @@
 			<div class="title">
 				<h1>ASSOCIATED EVENTS</h1>
 				<h4>Hackers Congress Paralelní Polis</h4>
-				<h5>Oct. 4th – 6th, 2024</h5>
+				<h5>Oct. 4th – 6th, 2024 | Prague, Czechia</h5>
 			</div>
 			<div class="row">
 				<div class="col-lg-6 pe-lg-4 pe-3 order-lg-1 order-2">
