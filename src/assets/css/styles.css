@@ -1109,6 +1109,10 @@
 	color: #ffffff;
 }
 
+.assocatedEventsSection a:link{
+    color:#FFFFFF;
+}
+
 .assocatedEventsSection h4 {
 	font-size: 28px;
 	font-weight: 700;
