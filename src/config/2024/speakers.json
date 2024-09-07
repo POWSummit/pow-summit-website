@@ -84,7 +84,15 @@
 			}
 		},
 
-		
+	{
+			"image": "/img/speakers/2024/FrankHolmes.jpg",
+			"name": "FRANK HOLMES",
+			"title": "Executive Chairman, Hive Digital Technologies",
+			"social": {
+				"twitter": "https://x.com/bulldogholmes",
+				"linkedin": "https://www.linkedin.com/in/frank-holmes-0a941b16/"
+			}
+		},	
 		
 
 {
@@ -112,6 +120,35 @@
 				"linkedin": "https://www.linkedin.com/in/jarradhope/"
 			}
 		},
+{
+			"image": "/img/speakers/2024/nickspanos.jpg",
+			"name": "NICK SPANOS",
+			"title": "Bitcoin Pioneer, Founder of Bitcoin & Blockchain Centers Worldwide",
+			"social": {
+				"twitter": "https://x.com/nickspanos",
+				"linkedin": "https://www.linkedin.com/in/nick-spanos/"
+			}
+		},
+        
+{
+			"image": "/img/speakers/2024/janusz.jpg",
+			"name": "JANUSZ",
+			"title": "CEO of Bitcoin Layers",
+			"social": {
+				"twitter": "https://x.com/0x_orkun"
+			}
+		},
+        
+{
+			"image": "/img/speakers/2024/HaraldRauter.jpg",
+			"name": "HARALD RAUTER",
+			"title": "Climate Positive Investor",
+			"social": {
+				"twitter": "https://x.com/HaraldRauter",
+				"linkedin": "https://www.linkedin.com/in/haraldrauter/"
+			}
+		},
+        
 {
 			"image": "/img/speakers/2024/ORKUN.jpg",
 			"name": "ORKUN MAHIR KILIÇ",
@@ -146,6 +183,16 @@
 				"linkedin": "https://www.linkedin.com/in/parasew/"
 			}
 		},
+        
+{
+			"image": "/img/speakers/bob-summerwill.jpg",
+			"name": "BOB SUMMERWILL",
+			"title": "Executive Director, ETC Cooperative",
+			"social": {
+				"twitter": "https://twitter.com/BobSummerwill/",
+				"linkedin": "https://www.linkedin.com/in/bobsummerwill/"
+			}
+		},
 {
 			"image": "/img/speakers/2024/Francisco.jpg",
 			"name": "FRANCISCO CABANAS",
@@ -164,12 +211,31 @@
 			}
 		},
 {
+			"image": "/img/speakers/2024/AydinKilic.jpg",
+			"name": "AYDIN KILIC",
+			"title": "President and Chief Executive Officer, Hive Digital Technologies",
+			"social": {
+				"twitter": "https://x.com/AydinKilicHIVE",
+				"linkedin": "https://www.linkedin.com/in/aydinkilic/"
+			}
+		},
+        
+{
 			"image": "/img/speakers/j-gdanski.png",
 			"name": "J. GDANSKI",
 			"title": "CEO of Evertas",
 			"social": {
 				"twitter": "https://x.com/gdanskij",
 				"linkedin": "https://linkedin.com/in/gdanskij"
+			}
+		},
+        
+{
+			"image": "/img/speakers/2024/DavidBurkett.jpg",
+			"name": "DAVID BURKETT",
+			"title": "MWEB Developer at Litecoin Foundation",
+			"social": {
+				"twitter": "https://x.com/davidburkett38"
 			}
 		},
 {
@@ -189,12 +255,42 @@
 			}
 		},
 {
+			"image": "/img/speakers/2024/RUSSELLCANN.jpg",
+			"name": "RUSSELL CANN",
+			"title": "Chief Development Officer at Core Scientific",
+			"social": {
+				"twitter": "https://x.com/russellcann",
+				"linkedin": "https://www.linkedin.com/in/russellcann/"
+			}
+		},
+        
+{
+			"image": "/img/speakers/2024/KRISTIANCSEPCSAR.jpg",
+			"name": "KRISTIAN CSEPCSAR",
+			"title": "Chief of Propaganda at Braiins",
+			"social": {
+				"twitter": "https://x.com/kristiancsep",
+				"linkedin": "https://www.linkedin.com/in/kristiancsepcsar/"
+			}
+		},
+
+
+{
 			"image": "/img/speakers/2024/Theo_Goodman.jpg",
 			"name": "THEO GOODMAN",
 			"title": "Art Chad",
 			"social": {
 				"twitter": "https://x.com/theog__"
 			}
+		},
+        
+{
+			"image": "/img/speakers/2024/SamBourgi.jpg",
+			"name": "SAM BOURGI",
+			"title": "Senior News Editor at Cointelegraph",
+			"social": {
+				"twitter": "https://x.com/forgeforth_"
+                }
 		},
 
 		{
@@ -214,6 +310,16 @@
 				"linkedin": "https://www.linkedin.com/in/aaron-feickert/"
 			}
 		},
+        
+{
+			"image": "/img/speakers/2024/CarterFeldman.jpg",
+			"name": "CARTER FELDMAN",
+			"title": "Founder & CEO of QED Protocol",
+			"social": {
+				"twitter": "https://x.com/cmpeq",
+				"linkedin": "https://linkedin.com/in/carter-feldman-b4a13568"
+			}
+		},
 
 {
 			"image": "/img/speakers/BendeWaal.png",
@@ -222,6 +328,15 @@
 			"social": {
 				"twitter": "https://x.com/ben_dewaal?lang=en"			}
 		},
+{
+			"image": "/img/speakers/2024/VeronikaKuett.jpg",
+			"name": "VERONIKA KUETT",
+			"title": "Researcher at Bitcoin Layers",
+			"social": {
+				"twitter": "https://x.com/VeronikaKuett",
+				"linkedin": "https://www.linkedin.com/in/veronikakuett/"			}
+		},
+        
 {
 			"image": "/img/speakers/2024/barbaglio.jpg",
 			"name": "STEFANIA BARBAGLIO",
@@ -240,6 +355,16 @@
 				"linkedin": "https://www.linkedin.com/in/kerrycwashington/"
 			}
 		},
+        
+{
+			"image": "/img/speakers/2024/EmmaTodd.jpg",
+			"name": "EMMA TODD",
+			"title": "CEO of MMH Technology Group",
+			"social": {
+				"twitter": "https://x.com/CryptoEmmaT",
+				"linkedin": "https://www.linkedin.com/in/emmatodd/"
+			}
+		},
 {
 			"image": "/img/speakers/2024/JulianLen.png",
 			"name": "JULIAN LEN",
@@ -249,6 +374,27 @@
 				"linkedin": ""
 			}
 		},
+        
+{
+			"image": "/img/speakers/2024/PatricioGallardo.jpg",
+			"name": "PATRICIO GALLARDO",
+			"title": "Researcher at Rootstock Labs",
+			"social": {
+				"twitter": "https://twitter.com/Crypto_Mags",
+				"linkedin": "https://www.linkedin.com/in/mgronowska/"
+			}
+		},
+        
+{
+			"image": "/img/speakers/ChrisSeedor.jpg",
+			"name": "CHRIS SEEDOR",
+			"title": "CEO of Bitsurance",
+			"social": {
+				"twitter": "https://x.com/coinjoined",
+				"linkedin": "https://www.linkedin.com/company/bitsurance-ug/"
+			}
+		},
+		
 {
 			"image": "/img/speakers/Magdalena-Gronowska.png",
 			"name": "MAGDALENA GRONOWSKA",
@@ -258,15 +404,7 @@
 				"linkedin": "https://www.linkedin.com/in/mgronowska/"
 			}
 		},		
-		{
-			"image": "/img/speakers/2024/PatricioGallardo.jpg",
-			"name": "PATRICIO GALLARDO",
-			"title": "Researcher at Rootstock Labs",
-			"social": {
-				"twitter": "https://twitter.com/Crypto_Mags",
-				"linkedin": "https://www.linkedin.com/in/mgronowska/"
-			}
-		},
+		
 {
 			"image": "/img/speakers/vlad-costea.jpg",
 			"name": "VLAD COSTEA",
@@ -286,24 +424,7 @@
 			}
 		},
 
-{
-			"image": "/img/speakers/ChrisSeedor.jpg",
-			"name": "CHRIS SEEDOR",
-			"title": "CEO of Bitsurance",
-			"social": {
-				"twitter": "https://x.com/coinjoined",
-				"linkedin": "https://www.linkedin.com/company/bitsurance-ug/"
-			}
-		},
-		{
-			"image": "/img/speakers/bob-summerwill.jpg",
-			"name": "BOB SUMMERWILL",
-			"title": "Executive Director, ETC Cooperative",
-			"social": {
-				"twitter": "https://twitter.com/BobSummerwill/",
-				"linkedin": "https://www.linkedin.com/in/bobsummerwill/"
-			}
-		},
+
 		{
 			"image": "/img/speakers/david-schwartz.jpg",
 			"name": "DAVID SCHWARTZ",
@@ -330,16 +451,8 @@
 				"twitter": "https://x.com/RocketETC",
 				"linkedin": "https://www.linkedin.com/in/donmcint/"
 			}
-		}, 
-{
-			"image": "/img/speakers/2024/nickspanos.jpg",
-			"name": "NICK SPANOS",
-			"title": "Bitcoin Pioneer, Founder of Bitcoin & Blockchain Centers Worldwide",
-			"social": {
-				"twitter": "https://x.com/nickspanos",
-				"linkedin": "https://www.linkedin.com/in/nick-spanos/"
-			}
-		}
+		} 
+
 		
 		
 	]
