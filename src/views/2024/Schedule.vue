@@ -36,17 +36,23 @@
 				<div class="col-sm-12 col-md-8 col-lg-8">
 					<h1 class="pb-4">2024 Schedule</h1>
 
-					<script type="text/javascript" src="https://pretalx.com/democon/schedule/widget/v2.en.js"></script>
+					<section id="example">
+						<h2>Example<a class="headerlink" href="#example" title="Link to this heading">¶</a></h2>
+						<p>Your embedded widget could look like the following:</p>
+						<script type="text/javascript" src="https://pretalx.com/democon/schedule/widget/v2.en.js" async></script>
 
-					<pretalx-schedule event-url="https://pretalx.com/democon/" locale="en" style="--pretalx-clr-primary: #3aa57c"></pretalx-schedule>
-					<noscript>
-					<div class="pretalx-widget">
-							<div class="pretalx-widget-info-message">
-								JavaScript is disabled in your browser. To access our schedule without JavaScript,
-								please <a target="_blank" href="https://pretalx.com/democon/schedule/">click here</a>.
-							</div>
+						<div style="overflow-x: auto; width: calc(100% + 100px); padding-right: 12px">
+						<pretalx-schedule event-url="https://pretalx.com/democon/" locale="en" style="--pretalx-clr-primary: #3aa57c;"></pretalx-schedule>
 						</div>
-					</noscript>
+						<noscript>
+						<div class="pretalx-widget">
+								<div class="pretalx-widget-info-message">
+									JavaScript is disabled in your browser. To access our schedule without JavaScript,
+									please <a target="_blank" href="https://pretalx.com/democon/schedule/">click here</a>.
+								</div>
+							</div>
+						</noscript>
+					</section>
 
 				</div>
 				<div class="col-sm-0 col-md-2 col-lg-2"></div>
