@@ -65,15 +65,7 @@
 				"twitter": "https://x.com/renapshah"
 			}
 		},
-{
-			"image": "/img/speakers/PaulSztorc.jpg",
-			"name": "PAUL SZTORC",
-			"title": "Founder and CEO, Layer Two Labs",
-			"social": {
-				"linkedin": "https://www.linkedin.com/in/paul-sztorc/",
-				"twitter": "https://x.com/truthcoin"
-			}
-		},
+
 	{
 			"image": "/img/speakers/2024/tor-ekeland.png",
 			"name": "TOR EKELAND",
@@ -305,7 +297,7 @@
 {
 			"image": "/img/speakers/2024/AaronFeickert.jpg",
 			"name": "AARON FEICKERT",
-			"title": "Head of Research at Cypher Stack",
+			"title": "Research Engineering Lead at Alpen Labs",
 			"social": {
 				"linkedin": "https://www.linkedin.com/in/aaron-feickert/"
 			}
