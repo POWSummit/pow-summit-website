@@ -35,8 +35,6 @@
 				<div class="col-sm-0 col-md-2 col-lg-2"></div>
 				<div class="col-sm-12 col-md-8 col-lg-8">
 					<section id="example">
-						<script type="text/javascript" src="https://pretalx.com/democon/schedule/widget/v2.en.js" async></script>
-
 						<div style="overflow-x: auto; width: calc(100% + 100px); padding-right: 12px">
 						<pretalx-schedule event-url="https://pretalx.com/democon/" locale="en" style="--pretalx-clr-primary: #3aa57c;"></pretalx-schedule>
 						</div>
@@ -74,3 +72,16 @@
 		</div>
 	</footer>
 </template>
+
+<script>
+  export default {
+    data: () => ({
+      event_url: 'https://pretalx.com/democon/'
+    }),
+    mounted() {
+      let recaptchaScript = document.createElement('script')
+      recaptchaScript.setAttribute('src', 'https://pretalx.com/democon/schedule/widget/v2.en.js')
+      document.head.appendChild(recaptchaScript)
+    }
+  }
+</script>
