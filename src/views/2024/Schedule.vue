@@ -34,11 +34,7 @@
 			<div class="row">
 				<div class="col-sm-0 col-md-2 col-lg-2"></div>
 				<div class="col-sm-12 col-md-8 col-lg-8">
-					<h1 class="pb-4">2024 Schedule</h1>
-
 					<section id="example">
-						<h2>Example<a class="headerlink" href="#example" title="Link to this heading">¶</a></h2>
-						<p>Your embedded widget could look like the following:</p>
 						<script type="text/javascript" src="https://pretalx.com/democon/schedule/widget/v2.en.js" async></script>
 
 						<div style="overflow-x: auto; width: calc(100% + 100px); padding-right: 12px">
