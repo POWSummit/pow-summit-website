@@ -1,37 +1,7 @@
 <template>
 	<!-- hero section with navbar starts here -->
 	<section class="proofHeroSecion">
-		<nav class="navbar navbar-expand-lg proofNav">
-			<div class="container-fluid">
-				<button
-					class="navbar-toggler order-lg-1 order-1"
-					type="button"
-					data-bs-toggle="collapse"
-					data-bs-target="#navbarSupportedContent"
-					aria-controls="navbarSupportedContent"
-					aria-expanded="false"
-					aria-label="Toggle navigation"
-				>
-					<span class="navbar-toggler-icon"></span>
-				</button>
-				<div
-					class="collapse navbar-collapse order-lg-2 order-3"
-					id="navbarSupportedContent"
-				>
-					<ul class="navbar-nav me-auto mb-2 mb-lg-0">
-						<li class="nav-item">
-							<a class="nav-link active" aria-current="page" href="/"
-								>POW Summit</a
-							>
-						</li>
-					</ul>
-				</div>
-			</div>
-		</nav>
-	</section>
-	<section class="proofHeroSecion">
 		<Navbar />
-		<Header />
 	</section>
 	<section class="p-0">
 		<div class="container">
@@ -76,15 +46,13 @@
 
 <script>
 	import Navbar from "@/components/2024/Navbar";
-	import Header from "@/components/2024/Header";
 
 	export default {
 		data: () => ({
 			event_url: 'https://pretalx.com/democon/'
 		}),
 		components: {
-			Navbar,
-			Header
+			Navbar
 		},
 		mounted() {
 			let recaptchaScript = document.createElement('script')
