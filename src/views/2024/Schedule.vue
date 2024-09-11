@@ -29,13 +29,12 @@
 			</div>
 		</nav>
 	</section>
-	<section class="p-5">
+	<section class="p-0">
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-0 col-md-2 col-lg-2"></div>
-				<div class="col-sm-12 col-md-8 col-lg-8">
+				<div class="col-sm-12 col-md-12 col-lg-12">
 					<section id="example">
-						<div style="overflow-x: auto; width: calc(100% + 100px); padding-right: 12px">
+						<div style="overflow-x: auto; width: calc(100% + 36px); padding-right: 12px">
 						<pretalx-schedule event-url="https://pretalx.com/democon/" locale="en" style="--pretalx-clr-primary: #3aa57c;"></pretalx-schedule>
 						</div>
 						<noscript>
@@ -47,9 +46,7 @@
 							</div>
 						</noscript>
 					</section>
-
 				</div>
-				<div class="col-sm-0 col-md-2 col-lg-2"></div>
 			</div>
 		</div>
 	</section>
