@@ -29,6 +29,10 @@
 			</div>
 		</nav>
 	</section>
+	<section class="proofHeroSecion">
+		<Navbar />
+		<Header />
+	</section>
 	<section class="p-0">
 		<div class="container">
 			<div class="row">
@@ -71,14 +75,21 @@
 </template>
 
 <script>
-  export default {
-    data: () => ({
-      event_url: 'https://pretalx.com/democon/'
-    }),
-    mounted() {
-      let recaptchaScript = document.createElement('script')
-      recaptchaScript.setAttribute('src', 'https://pretalx.com/democon/schedule/widget/v2.en.js')
-      document.head.appendChild(recaptchaScript)
-    }
-  }
+	import Navbar from "@/components/2024/Navbar";
+	import Header from "@/components/2024/Header";
+
+	export default {
+		data: () => ({
+			event_url: 'https://pretalx.com/democon/'
+		}),
+		components: {
+			Navbar,
+			Header
+		},
+		mounted() {
+			let recaptchaScript = document.createElement('script')
+			recaptchaScript.setAttribute('src', 'https://pretalx.com/democon/schedule/widget/v2.en.js')
+			document.head.appendChild(recaptchaScript)
+		}
+	}
 </script>
