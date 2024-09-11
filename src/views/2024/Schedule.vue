@@ -34,7 +34,7 @@
 			<div class="row">
 				<div class="col-sm-12 col-md-12 col-lg-12">
 					<section id="example">
-						<div style="overflow-x: auto; width: calc(100% + 36px); padding-right: 12px">
+						<div style="overflow-x: auto; width: calc(100% + 30px); padding-right: 30px">
 						<pretalx-schedule event-url="https://pretalx.com/democon/" locale="en" style="--pretalx-clr-primary: #3aa57c;"></pretalx-schedule>
 						</div>
 						<noscript>
