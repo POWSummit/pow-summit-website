@@ -53,7 +53,7 @@
 			<div class="row">
 				<div class="col-lg-6 pe-lg-4 pe-3 order-lg-1 order-2">
 					<a href="https://tix.hcpp.cz/24/redeem?voucher=POW24" target="_blank">
-						<img src="@/assets/images/hcpp-napis-na-2024.png" alt="" />
+						<img src="@/assets/images/signal-2024-09-10-113225_002.png" alt="" />
 					</a>
 				</div>
 				<div class="col-lg-6 mb-lg-0 mb-5 order-lg-2 order-1 text-center">
