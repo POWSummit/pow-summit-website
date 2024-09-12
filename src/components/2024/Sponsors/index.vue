@@ -20,6 +20,9 @@
 					<a target="_blank" href="https://www.blockscout.com/">
 						<img src="@/assets/images/blockscout-logo.png" alt="Blockscout" />
 					</a>
+			<a target="_blank" href="https://citrea.xyz/">
+						<img src="@/assets/images/citrea-logo_white.png" alt="citrea" />
+					</a>
 				</div>
 			</div>
 		</div>
