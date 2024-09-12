@@ -37,7 +37,7 @@ export default {
 		Navbar,
 		Header,
 		Speakers,
-		BecomeSpeaker,
+		/* BecomeSpeaker, */
 		/* Agenda, */
 		Tickets,
 		Location,
