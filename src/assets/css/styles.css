@@ -365,11 +365,13 @@
 
 /* active sponsors section ends here */
 
-/* schedule section starts here */
+/* schedule embed section starts here */
+
 .pretalx-schedule .days {
     display: none;
 }
-/* schedule section ends here */
+
+/* schedule embed section ends here */
 
 /* our speakers section starts here */
 .ourSpeakersSection {
