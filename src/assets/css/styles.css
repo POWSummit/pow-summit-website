@@ -365,6 +365,12 @@
 
 /* active sponsors section ends here */
 
+/* schedule section starts here */
+.pretalx-schedule .days {
+    display: none;
+}
+/* schedule section ends here */
+
 /* our speakers section starts here */
 .ourSpeakersSection {
 	background: #0085fe;
