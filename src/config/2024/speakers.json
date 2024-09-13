@@ -246,15 +246,7 @@
 				"twitter": "https://x.com/jardemalie"
 			}
 		},
-{
-			"image": "/img/speakers/2024/RUSSELLCANN.jpg",
-			"name": "RUSSELL CANN",
-			"title": "Chief Development Officer at Core Scientific",
-			"social": {
-				"twitter": "https://x.com/russellcann",
-				"linkedin": "https://www.linkedin.com/in/russellcann/"
-			}
-		},
+
         
 {
 			"image": "/img/speakers/2024/KRISTIANCSEPCSAR.jpg",
@@ -337,6 +329,15 @@
 				"twitter": "https://x.com/stefixy",
 				"linkedin": "https://www.linkedin.com/in/stefaniabarbaglio/"			}
 		},
+{
+			"image": "/img/speakers/2024/WantClue.jpg",
+			"name": "WantClue",
+			"title": "Developer, Bitaxe Miner",
+			"social": {
+				"twitter": "https://x.com/wantclue"
+				
+			}
+		},
 
 {
 			"image": "/img/speakers/2024/kerrywashington.jpg",
@@ -348,15 +349,7 @@
 			}
 		},
         
-{
-			"image": "/img/speakers/2024/EmmaTodd.jpg",
-			"name": "EMMA TODD",
-			"title": "CEO of MMH Technology Group",
-			"social": {
-				"twitter": "https://x.com/CryptoEmmaT",
-				"linkedin": "https://www.linkedin.com/in/emmatodd/"
-			}
-		},
+
 {
 			"image": "/img/speakers/2024/JulianLen.png",
 			"name": "JULIAN LEN",
