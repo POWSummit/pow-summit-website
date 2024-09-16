@@ -371,6 +371,16 @@
 		},
         
 {
+			"image": "/img/speakers/2024/david-kim.jpg",
+			"name": "David Kim",
+			"title": "PoW Ecosystem Manager at BITMAIN",
+			"social": {
+				"twitter": "https://x.com/jinqianzaihome",
+				"linkedin": "https://www.linkedin.com/in/gyeom-kim/"
+			}
+		},
+
+{
 			"image": "/img/speakers/ChrisSeedor.jpg",
 			"name": "CHRIS SEEDOR",
 			"title": "CEO of Bitsurance",
