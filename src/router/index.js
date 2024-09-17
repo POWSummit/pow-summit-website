@@ -12,6 +12,7 @@ import Photos_2023 from "@/views/2023/Photos.vue";
 import Photos_2024 from "@/views/2024/Photos.vue";
 import PostView from "@/views/PostView.vue";
 import Blog from "@/views/Blog.vue";
+import Schedule from "@/views/2024/Schedule.vue";
 
 const routes = [
 	{
@@ -43,6 +44,11 @@ const routes = [
 		path: "/2024/photos",
 		name: "2024photos",
 		component: Photos_2024,
+	},
+	{
+		path: "/2024/schedule",
+		name: "2024schedule",
+		component: Schedule,
 	},
 	{
 		path: "/2024/videos",
