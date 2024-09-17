@@ -20,6 +20,12 @@
 					<a target="_blank" href="https://www.blockscout.com/">
 						<img src="@/assets/images/blockscout-logo.png" alt="Blockscout" />
 					</a>
+			<a target="_blank" href="https://citrea.xyz/">
+						<img src="@/assets/images/citrea-logo_white.png" alt="citrea" />
+					</a>
+	<a target="_blank" href="https://evertas.com/">
+						<img src="@/assets/images/evertas-logo.svg" alt="evertas" />
+					</a>
 				</div>
 			</div>
 		</div>

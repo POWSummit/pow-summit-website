@@ -65,15 +65,7 @@
 				"twitter": "https://x.com/renapshah"
 			}
 		},
-{
-			"image": "/img/speakers/PaulSztorc.jpg",
-			"name": "PAUL SZTORC",
-			"title": "Founder and CEO, Layer Two Labs",
-			"social": {
-				"linkedin": "https://www.linkedin.com/in/paul-sztorc/",
-				"twitter": "https://x.com/truthcoin"
-			}
-		},
+
 	{
 			"image": "/img/speakers/2024/tor-ekeland.png",
 			"name": "TOR EKELAND",
@@ -203,7 +195,7 @@
 		},
 {
 			"image": "/img/speakers/2024/MykolaSiusko.jpg",
-			"name": "MYKOLA SIIUSKO",
+			"name": "MYKOLA SIUSKO",
 			"title": "Core Contributor at Web3Privacy Now",
 			"social": {
 				"twitter": "https://x.com/nicksvyaznoy",
@@ -254,15 +246,7 @@
 				"twitter": "https://x.com/jardemalie"
 			}
 		},
-{
-			"image": "/img/speakers/2024/RUSSELLCANN.jpg",
-			"name": "RUSSELL CANN",
-			"title": "Chief Development Officer at Core Scientific",
-			"social": {
-				"twitter": "https://x.com/russellcann",
-				"linkedin": "https://www.linkedin.com/in/russellcann/"
-			}
-		},
+
         
 {
 			"image": "/img/speakers/2024/KRISTIANCSEPCSAR.jpg",
@@ -305,7 +289,7 @@
 {
 			"image": "/img/speakers/2024/AaronFeickert.jpg",
 			"name": "AARON FEICKERT",
-			"title": "Head of Research at Cypher Stack",
+			"title": "Research Engineering Lead at Alpen Labs",
 			"social": {
 				"linkedin": "https://www.linkedin.com/in/aaron-feickert/"
 			}
@@ -345,6 +329,15 @@
 				"twitter": "https://x.com/stefixy",
 				"linkedin": "https://www.linkedin.com/in/stefaniabarbaglio/"			}
 		},
+{
+			"image": "/img/speakers/2024/WantClue.jpg",
+			"name": "WantClue",
+			"title": "Developer, Bitaxe Miner",
+			"social": {
+				"twitter": "https://x.com/wantclue"
+				
+			}
+		},
 
 {
 			"image": "/img/speakers/2024/kerrywashington.jpg",
@@ -356,15 +349,7 @@
 			}
 		},
         
-{
-			"image": "/img/speakers/2024/EmmaTodd.jpg",
-			"name": "EMMA TODD",
-			"title": "CEO of MMH Technology Group",
-			"social": {
-				"twitter": "https://x.com/CryptoEmmaT",
-				"linkedin": "https://www.linkedin.com/in/emmatodd/"
-			}
-		},
+
 {
 			"image": "/img/speakers/2024/JulianLen.png",
 			"name": "JULIAN LEN",
@@ -385,6 +370,16 @@
 			}
 		},
         
+{
+			"image": "/img/speakers/2024/david-kim.jpg",
+			"name": "David Kim",
+			"title": "PoW Ecosystem Manager at BITMAIN",
+			"social": {
+				"twitter": "https://x.com/jinqianzaihome",
+				"linkedin": "https://www.linkedin.com/in/gyeom-kim/"
+			}
+		},
+
 {
 			"image": "/img/speakers/ChrisSeedor.jpg",
 			"name": "CHRIS SEEDOR",

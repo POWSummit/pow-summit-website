@@ -10,6 +10,9 @@
 			<a target="_blank" href="https://icoholder.com/">
 				<img src="@/assets/images/icoholder.png" alt="Icoholder" />
 			</a>
+			<a target="_blank" href="https://www.finance-yard.com/">
+				<img src="@/assets/images/finance-yard.png" alt="finance yard" />
+			</a>
 			<a target="_blank" href="https://www.cryptonewsz.com/">
 				<img src="@/assets/images/cryptonewsz.png" alt="CryptoNewsZ" />
 			</a>
