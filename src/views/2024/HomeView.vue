@@ -6,6 +6,7 @@
 
 	<Speakers />
 	<BecomeSpeaker />
+	<ScheduleHome />
 	<Agenda />
 	<Tickets />
 
@@ -23,6 +24,7 @@ import Navbar from "@/components/2024/Navbar";
 import Header from "@/components/2024/Header";
 import Speakers from "@/components/2024/Speakers";
 import BecomeSpeaker from "@/components/2024/BecomeSpeaker";
+import ScheduleHome from "@/components/2024/ScheduleHome";
 import Tickets from "@/components/2024/Tickets";
 import Location from "@/components/2024/Location";
 import BecomeSponsor from "@/components/2024/BecomeSponsor";
@@ -38,6 +40,7 @@ export default {
 		Header,
 		Speakers,
 		BecomeSpeaker,
+		ScheduleHome,
 		/* Agenda, */
 		Tickets,
 		Location,
