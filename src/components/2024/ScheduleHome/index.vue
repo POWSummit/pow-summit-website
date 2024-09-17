@@ -1,5 +1,5 @@
 <template>
-	<section class="registerSpeakerSection" id="registerSpeakerSection">
+	<section class="scheduleHomeSection" id="registerSpeakerSection">
 		<div class="proofMainContainer registerSpeakerContainer">
 			<a
 				href="./2024/schedule"

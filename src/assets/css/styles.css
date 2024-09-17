@@ -1097,6 +1097,14 @@
 
 /* where to stay section ends here */
 
+/* schedule button section starts here */
+.scheduleHomeSection {
+	background-color: #0085fe !important;
+}
+
+/* schedule button section ends here */
+
+
 /* associated events section starts here */
 .assocatedEventsSection {
 	background-color: #0085fe !important;
