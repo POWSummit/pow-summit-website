@@ -71,7 +71,7 @@
 					}
 				} else {
 					// Try again after a short delay
-					setTimeout(waitForPretalx, 100);
+					setTimeout(waitForPretalx, 2000);
 				}
 			}
 
