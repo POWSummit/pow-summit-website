@@ -365,6 +365,7 @@
 
 /* active sponsors section ends here */
 
+
 /* our speakers section starts here */
 .ourSpeakersSection {
 	background: #0085fe;
@@ -1095,6 +1096,14 @@
 }
 
 /* where to stay section ends here */
+
+/* schedule button section starts here */
+.scheduleHomeSection {
+	background-color: #0085fe !important;
+}
+
+/* schedule button section ends here */
+
 
 /* associated events section starts here */
 .assocatedEventsSection {
