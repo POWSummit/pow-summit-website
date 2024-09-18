@@ -28,7 +28,7 @@
 							<a class="nav-link" href="/2024/#ourSpeakersSection">Speakers</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="/2024/schedule">Schedule</a>
+							<a class="nav-link" href="https://cfp.powsummit.com/2024/schedule/" target="_blank">Schedule</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link" href="/2024/#getTicketSection">Tickets</a>
