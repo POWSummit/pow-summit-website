@@ -68,15 +68,15 @@
 		
 				if (shadowHost) {
 
-					console.log("shadowHost ready")
-					console.log(shadowHost)
+					console.log("shadowHost ready");
+					console.log(shadowHost);
 
 					var shadowRoot = shadowHost.shadowRoot;
 
 					if (shadowRoot.querySelector('.bunt-tabs.days.grid-tabs') !== null){
 						
-						console.log("shadowRoot ready")
-						console.log(shadowRoot)
+						console.log("shadowRoot ready");
+						console.log(shadowRoot);
 
 						var shadowDiv = shadowRoot.querySelector('.bunt-tabs.days.grid-tabs');
 					
@@ -88,7 +88,7 @@
 
 						} else {
 							// Try again after a short delay
-							etTimeout(waitForPretalx, 1000);
+							setTimeout(waitForPretalx, 1000);
 						}
 						
 
