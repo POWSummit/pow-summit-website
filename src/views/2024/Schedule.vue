@@ -58,6 +58,25 @@
 			let recaptchaScript = document.createElement('script')
 			recaptchaScript.setAttribute('src', 'https://pretalx.com/democon/schedule/widget/v2.en.js')
 			document.head.appendChild(recaptchaScript)
+
+			function waitForPretalx() {
+				var shadowHost = document.querySelector('pretalx-schedule');
+				
+				if (shadowHost) {
+					var shadowRoot = shadowHost.shadowRoot;
+					var shadowDiv = shadowRoot.querySelector('.bunt-tabs.days.grid-tabs');
+					
+					if (shadowDiv) {
+						shadowDiv.style.display = 'none'; // Hide the div
+					}
+				} else {
+					// Try again after a short delay
+					setTimeout(waitForPretalx, 2000);
+				}
+			}
+
+			// Start polling to wait for the element to load
+			waitForPretalx();
 		}
 	}
 </script>
