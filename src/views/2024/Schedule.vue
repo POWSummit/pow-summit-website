@@ -59,38 +59,44 @@
 			recaptchaScript.setAttribute('src', 'https://pretalx.com/democon/schedule/widget/v2.en.js')
 			document.head.appendChild(recaptchaScript)
 
-			console.log("recaptchaScript")
-
 			function waitForPretalx() {
 
-				console.log("waitForPretalx")
+				console.log("heartbeat - waitForPretalx")
 
 				var shadowHost = document.querySelector('pretalx-schedule');
 		
-				console.log("shadowHost")
-				console.log(shadowHost)
-
-
+		
 				if (shadowHost) {
 
-					console.log("if shadowHost")
+					console.log("shadowHost ready")
+					console.log(shadowHost)
 
 					var shadowRoot = shadowHost.shadowRoot;
-					var shadowDiv = shadowRoot.querySelector('.bunt-tabs.days.grid-tabs');
+
+					if (shadowRoot.querySelector('.bunt-tabs.days.grid-tabs') !== null){
+						
+						console.log("shadowRoot ready")
+						console.log(shadowRoot)
+
+						var shadowDiv = shadowRoot.querySelector('.bunt-tabs.days.grid-tabs');
 					
-					console.log("shadowRoot")
-					console.log(shadowRoot)
-					console.log("shadowDiv")
-					console.log(shadowDiv)
+						if (shadowDiv) !== null){
+							console.log("shadowDiv ready")
+							console.log(shadowDiv)
+							// Modify its inline style
+							shadowDiv.style.display = 'none'; // Hide the element
 
-					if (shadowDiv) {
-						shadowDiv.style.display = 'none'; // Hide the div
+						} else {
+							// Try again after a short delay
+							etTimeout(waitForPretalx, 1000);
+						}
+						
 
-						console.log("if shadowDiv")
-
-						// Modify its inline style
-						shadowDiv.style.display = 'none'; // Hide the element
+					} else {
+						// Try again after a short delay
+						setTimeout(waitForPretalx, 1000);
 					}
+					
 				} else {
 					// Try again after a short delay
 					setTimeout(waitForPretalx, 1000);
