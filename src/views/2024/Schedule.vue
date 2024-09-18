@@ -59,8 +59,14 @@
 			recaptchaScript.setAttribute('src', 'https://pretalx.com/democon/schedule/widget/v2.en.js')
 			document.head.appendChild(recaptchaScript)
 
+			console.log("recaptchaScript")
+
 			function waitForPretalx() {
+
+				console.log("waitForPretalx")
+				
 				var shadowHost = document.querySelector('pretalx-schedule');
+		
 				
 				if (shadowHost) {
 					var shadowRoot = shadowHost.shadowRoot;
@@ -68,10 +74,13 @@
 					
 					if (shadowDiv) {
 						shadowDiv.style.display = 'none'; // Hide the div
+
+						// Modify its inline style
+						shadowDiv.style.display = 'none'; // Hide the element
 					}
 				} else {
 					// Try again after a short delay
-					setTimeout(waitForPretalx, 2000);
+					setTimeout(waitForPretalx, 1000);
 				}
 			}
 
