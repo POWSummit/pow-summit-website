@@ -60,52 +60,18 @@
 			document.head.appendChild(recaptchaScript)
 
 			function waitForPretalx() {
-
-				console.log("heartbeat - waitForPretalx")
-
 				var shadowHost = document.querySelector('pretalx-schedule');
-		
-		
+				
 				if (shadowHost) {
-
-					console.log("shadowHost ready");
-					console.log(shadowHost);
-
 					var shadowRoot = shadowHost.shadowRoot;
+					var shadowDiv = shadowRoot.querySelector('.bunt-tabs.days.grid-tabs');
 					
-					if(shadowRoot){
-
-						console.log("shadowRoot ready");
-						console.log(shadowRoot);
-
-						console.log(shadowRoot.querySelector('.bunt-tabs.days.grid-tabs'));
-
-						var shadowRootElements = shadowRoot.querySelector('.bunt-tabs.days');
-
-						if (shadowRootElements){
-							
-							console.log("shadowRootElements ready");
-							console.log(shadowRootElements);
-
-							// Modify its inline style
-							shadowRootElements.style.display = 'none'; // Hide the element
-
-						} else {
-							// Try again after a short delay
-							setTimeout(waitForPretalx, 100);
-						}
-
-
-					} else{
-
-						// Try again after a short delay
-						setTimeout(waitForPretalx, 100);
-
-					}				
-					
+					if (shadowDiv) {
+						shadowDiv.style.display = 'none'; // Hide the div
+					}
 				} else {
 					// Try again after a short delay
-					setTimeout(waitForPretalx, 100);
+					setTimeout(waitForPretalx, 2000);
 				}
 			}
 
