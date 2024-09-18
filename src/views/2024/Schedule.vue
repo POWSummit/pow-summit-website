@@ -64,16 +64,29 @@
 			function waitForPretalx() {
 
 				console.log("waitForPretalx")
-				
+
 				var shadowHost = document.querySelector('pretalx-schedule');
 		
-				
+				console.log("shadowHost")
+				console.log(shadowHost)
+
+
 				if (shadowHost) {
+
+					console.log("if shadowHost")
+
 					var shadowRoot = shadowHost.shadowRoot;
 					var shadowDiv = shadowRoot.querySelector('.bunt-tabs.days.grid-tabs');
 					
+					console.log("shadowRoot")
+					console.log(shadowRoot)
+					console.log("shadowDiv")
+					console.log(shadowDiv)
+
 					if (shadowDiv) {
 						shadowDiv.style.display = 'none'; // Hide the div
+
+						console.log("if shadowDiv")
 
 						// Modify its inline style
 						shadowDiv.style.display = 'none'; // Hide the element
