@@ -72,6 +72,10 @@
 					console.log(shadowHost);
 
 					var shadowRoot = shadowHost.shadowRoot;
+					console.log("shadowRoot ready");
+					console.log(shadowRoot);
+					console.log(shadowRoot.querySelector('.bunt-tabs.days.grid-tabs'));
+					
 					var shadowRootElements = shadowRoot.querySelector('.bunt-tabs.days.grid-tabs');
 
 					if (shadowRootElements){
