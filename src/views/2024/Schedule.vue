@@ -80,7 +80,7 @@
 
 						console.log(shadowRoot.querySelector('.bunt-tabs.days.grid-tabs'));
 
-						var shadowRootElements = shadowRoot.querySelector('.bunt-tabs.days.grid-tabs');
+						var shadowRootElements = shadowRoot.querySelector('.bunt-tabs.days');
 
 						if (shadowRootElements){
 							
