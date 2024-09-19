@@ -84,8 +84,11 @@
 
 						if (shadowRootElements){
 							
-							console.log("shadowRoot ready");
-							console.log(shadowRoot);
+							console.log("shadowRootElements ready");
+							console.log(shadowRootElements);
+
+							// Modify its inline style
+							shadowRootElements.style.display = 'none'; // Hide the element
 
 						} else {
 							// Try again after a short delay
@@ -98,9 +101,7 @@
 						// Try again after a short delay
 						setTimeout(waitForPretalx, 1000);
 
-
-					}
-					
+					}				
 					
 				} else {
 					// Try again after a short delay
