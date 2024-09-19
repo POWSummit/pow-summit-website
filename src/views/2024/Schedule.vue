@@ -71,7 +71,20 @@
 					console.log("shadowHost ready");
 					console.log(shadowHost);
 
-					
+					var shadowRoot = shadowHost.shadowRoot;
+
+					if (shadowRoot.querySelector('.bunt-tabs.days.grid-tabs') !== null){
+						
+						console.log("shadowRoot ready");
+						console.log(shadowRoot);
+
+
+						
+
+					} else {
+						// Try again after a short delay
+						setTimeout(waitForPretalx, 1000);
+					}
 					
 				} else {
 					// Try again after a short delay
