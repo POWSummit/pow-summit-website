@@ -72,23 +72,35 @@
 					console.log(shadowHost);
 
 					var shadowRoot = shadowHost.shadowRoot;
-					console.log("shadowRoot ready");
-					console.log(shadowRoot);
-					console.log(shadowRoot.querySelector('.bunt-tabs.days.grid-tabs'));
 					
-					var shadowRootElements = shadowRoot.querySelector('.bunt-tabs.days.grid-tabs');
+					if(shadowRoot){
 
-					if (shadowRootElements){
-						
 						console.log("shadowRoot ready");
 						console.log(shadowRoot);
 
+						console.log(shadowRoot.querySelector('.bunt-tabs.days.grid-tabs'));
+
+						var shadowRootElements = shadowRoot.querySelector('.bunt-tabs.days.grid-tabs');
+
+						if (shadowRootElements){
+							
+							console.log("shadowRoot ready");
+							console.log(shadowRoot);
+
+						} else {
+							// Try again after a short delay
+							setTimeout(waitForPretalx, 1000);
+						}
 
 
-					} else {
+					} else{
+
 						// Try again after a short delay
 						setTimeout(waitForPretalx, 1000);
+
+
 					}
+					
 					
 				} else {
 					// Try again after a short delay
