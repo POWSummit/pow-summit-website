@@ -72,14 +72,14 @@
 					console.log(shadowHost);
 
 					var shadowRoot = shadowHost.shadowRoot;
+					var shadowRootElements = shadowRoot.querySelector('.bunt-tabs.days.grid-tabs');
 
-					if (shadowRoot.querySelector('.bunt-tabs.days.grid-tabs') !== null){
+					if (shadowRootElements){
 						
 						console.log("shadowRoot ready");
 						console.log(shadowRoot);
 
 
-						
 
 					} else {
 						// Try again after a short delay
