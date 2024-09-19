@@ -92,20 +92,20 @@
 
 						} else {
 							// Try again after a short delay
-							setTimeout(waitForPretalx, 1000);
+							setTimeout(waitForPretalx, 100);
 						}
 
 
 					} else{
 
 						// Try again after a short delay
-						setTimeout(waitForPretalx, 1000);
+						setTimeout(waitForPretalx, 100);
 
 					}				
 					
 				} else {
 					// Try again after a short delay
-					setTimeout(waitForPretalx, 1000);
+					setTimeout(waitForPretalx, 100);
 				}
 			}
 
