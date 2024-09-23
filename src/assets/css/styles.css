@@ -295,7 +295,11 @@
 }
 
 .activeSponsorsContainer .silver img{
-	height: 70px;
+	height: 200px;
+}
+.activeSponsorsContainer .platinum img{
+	width: 500px;
+	height: 200px;
 }
 
 .activeSponsorsSection img {

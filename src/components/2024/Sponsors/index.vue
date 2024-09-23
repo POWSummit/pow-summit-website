@@ -26,6 +26,9 @@
 	<a target="_blank" href="https://evertas.com/">
 						<img src="@/assets/images/evertas-logo.svg" alt="evertas" />
 					</a>
+<a target="_blank" href="https://logos.co/">
+						<img src="@/assets/images/logos.png" alt="logos" />
+					</a>
 				</div>
 			</div>
 		</div>
