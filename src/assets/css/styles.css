@@ -297,6 +297,9 @@
 .activeSponsorsContainer .silver img{
 	height: 200px;
 }
+.activeSponsorsContainer .platinum img{
+	height: 400px;
+}
 
 .activeSponsorsSection img {
 	width: 300px;
