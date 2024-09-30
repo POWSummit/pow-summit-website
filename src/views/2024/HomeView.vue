@@ -40,9 +40,9 @@ export default {
 		ScheduleHome,
 		/* BecomeSpeaker, */
 		/* Agenda, */
-		Tickets,
-		Location,
-		BecomeSponsor,
+		/* Tickets, */
+		/* Location, */
+		/* BecomeSponsor, */
 		Sponsors,
 		MediaPartners,
 		Footer,
