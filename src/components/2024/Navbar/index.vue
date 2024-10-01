@@ -30,9 +30,7 @@
 						<li class="nav-item">
 							<a class="nav-link" href="https://cfp.powsummit.com/2024/schedule/" target="_blank">Schedule</a>
 						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="/2024/#getTicketSection">Tickets</a>
-						</li>
+						
 						<li class="nav-item dropdown">
 							<a
 								class="nav-link dropdown-toggle"
