@@ -95,11 +95,7 @@
 						</li>
 					</ul>
 				</div>
-				<a
-					href="https://powsummit2024.eventbrite.ca/"
-					class="getTicketsBtn order-lg-3 order-2"
-					>GET TICKETS
-				</a>
+				
 			</div>
 		</nav>
 	</div>
