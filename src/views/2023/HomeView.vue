@@ -15,7 +15,6 @@
 	<!-- agenda section ends here -->
 
 	<!-- tickets secyion starts here -->
-	<Tickets />
 	<!-- tickets secyion ends here -->
 
 	<!-- active sponsors section starts here -->
@@ -59,9 +58,9 @@ export default {
 		Header,
 		Speakers,
 		Agenda,
-		Tickets,
+		/* Tickets,  */
 		Location,
-		BecomeSponsor,
+		/*  BecomeSponsor,  */
 		MediaPartners,
 		Sponsors,
 		Footer,

@@ -295,7 +295,11 @@
 }
 
 .activeSponsorsContainer .silver img{
-	height: 70px;
+	height: 200px;
+}
+.activeSponsorsContainer .platinum img{
+	width: 500px;
+	height: 200px;
 }
 
 .activeSponsorsSection img {
@@ -1107,7 +1111,7 @@
 
 /* associated events section starts here */
 .assocatedEventsSection {
-	background-color: #0085fe !important;
+	background-color: #00d55a !important;
 }
 
 .assocatedEventsSection h1 {

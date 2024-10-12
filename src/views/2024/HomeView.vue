@@ -41,8 +41,8 @@ export default {
 		/* BecomeSpeaker, */
 		/* Agenda, */
 		Tickets,
-		Location,
-		BecomeSponsor,
+		/* Location, */
+		/* BecomeSponsor, */
 		Sponsors,
 		MediaPartners,
 		Footer,
