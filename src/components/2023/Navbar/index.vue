@@ -31,9 +31,6 @@
 							<a class="nav-link" href="/2023/#agenda">Agenda</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="/2023/#getTicketSection">Tickets</a>
-						</li>
-						<li class="nav-item">
 							<a class="nav-link" href="/2023/#activeSponsorsSection">Sponsors</a>
 						</li>
 						<li class="nav-item">
@@ -72,11 +69,6 @@
 						</li>
 					</ul>
 				</div>
-				<a
-					href="https://www.eventbrite.ca/e/pow-summit-2023-tickets-551536098317"
-					class="getTicketsBtn order-lg-3 order-2"
-					>GET TICKETS
-				</a>
 			</div>
 		</nav>
 	</div>
