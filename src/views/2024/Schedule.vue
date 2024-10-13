@@ -60,72 +60,23 @@
 			document.head.appendChild(recaptchaScript)
 
 			function waitForPretalx() {
-<<<<<<< HEAD
-
-				console.log("heartbeat - waitForPretalx")
-
-				var shadowHost = document.querySelector('pretalx-schedule');
-		
-		
-				if (shadowHost) {
-
-					console.log("shadowHost ready");
-					console.log(shadowHost);
-
-					var shadowRoot = shadowHost.shadowRoot;
-					
-					if(shadowRoot){
-
-						console.log("shadowRoot ready");
-						console.log(shadowRoot);
-
-						console.log(shadowRoot.querySelector('.bunt-tabs.days.grid-tabs'));
-
-						var shadowRootElements = shadowRoot.querySelector('.bunt-tabs.days');
-
-						if (shadowRootElements){
-							
-							console.log("shadowRootElements ready");
-							console.log(shadowRootElements);
-
-							// Modify its inline style
-							shadowRootElements.style.display = 'none'; // Hide the element
-
-						} else {
-							// Try again after a short delay
-							setTimeout(waitForPretalx, 100);
-						}
-
-
-					} else{
-
-						// Try again after a short delay
-						setTimeout(waitForPretalx, 100);
-
-					}				
-					
-				} else {
-					// Try again after a short delay
-					setTimeout(waitForPretalx, 100);
-=======
-				var shadowHost = document.querySelector('pretalx-schedule');
+				var shadowHost = document.querySelector('pretalx-schedule')
 				
 				if (shadowHost) {
 					var shadowRoot = shadowHost.shadowRoot;
-					var shadowDiv = shadowRoot.querySelector('.bunt-tabs.days.grid-tabs');
+					var shadowDiv = shadowRoot.querySelector('.bunt-tabs.days.grid-tabs')
 					
 					if (shadowDiv) {
-						shadowDiv.style.display = 'none'; // Hide the div
+						shadowDiv.style.display = 'none' // Hide the div
 					}
 				} else {
 					// Try again after a short delay
-					setTimeout(waitForPretalx, 2000);
->>>>>>> origin/main
+					setTimeout(waitForPretalx, 2000)
 				}
 			}
 
 			// Start polling to wait for the element to load
-			waitForPretalx();
+			waitForPretalx()
 		}
 	}
 </script>
