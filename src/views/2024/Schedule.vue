@@ -60,23 +60,23 @@
 			document.head.appendChild(recaptchaScript)
 
 			function waitForPretalx() {
-				var shadowHost = document.querySelector('pretalx-schedule');
+				var shadowHost = document.querySelector('pretalx-schedule')
 				
 				if (shadowHost) {
 					var shadowRoot = shadowHost.shadowRoot;
-					var shadowDiv = shadowRoot.querySelector('.bunt-tabs.days.grid-tabs');
+					var shadowDiv = shadowRoot.querySelector('.bunt-tabs.days.grid-tabs')
 					
 					if (shadowDiv) {
-						shadowDiv.style.display = 'none'; // Hide the div
+						shadowDiv.style.display = 'none' // Hide the div
 					}
 				} else {
 					// Try again after a short delay
-					setTimeout(waitForPretalx, 2000);
+					setTimeout(waitForPretalx, 2000)
 				}
 			}
 
 			// Start polling to wait for the element to load
-			waitForPretalx();
+			waitForPretalx()
 		}
 	}
 </script>
