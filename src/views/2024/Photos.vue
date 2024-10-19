@@ -15,6 +15,41 @@
         <div class="galleryHeroContainer">
             <h1>Proof of Work 2024 Conference Photos - Frankurt</h1>
         </div>
+        <div class="row">
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
+                    <div class="heroCard">
+                        <div class="heroCardImg">
+                            <h3>Opening Night Party</h3>
+                        </div>
+                        <div class="heroCardContent">
+                            <a href="/photos-2023-opening-night" class="ticketCard"><button>View Gallery</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
+                    <div class="heroCard">
+                        <div class="heroCardImg">
+                            <h3>Day 1</h3>
+                        </div>
+                        <div class="heroCardContent">
+                            <a href="/photos-2023-day-1" class="ticketCard"><button>View Gallery</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
+                    <div class="heroCard">
+                        <div class="heroCardImg">
+                            <img src="@/assets/images/heroImg3-2023.png" alt="" />
+                        </div>
+                        <div class="heroCardImg">
+                            <h3>Day 2</h3>
+                        </div>
+                        <div class="heroCardContent">
+                            <a href="/photos-2023-day-2" class="ticketCard"><button>View Gallery</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
 	</section>
     <!-- hero section with navbar ends here -->
     <section class="gallerySection">

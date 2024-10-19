@@ -18,20 +18,20 @@
                 <div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
                     <div class="heroCard">
                         <div class="heroCardImg">
-                            <img src="@/assets/images/heroImg1-2023.png" alt="" />
+                            <h3>Opening Night Party</h3>
                         </div>
                         <div class="heroCardContent">
-                            <h3>Opening Night Party</h3>
+                            <a href="/photos-opening-night" class="ticketCard"><button>View Gallery</button></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
                     <div class="heroCard">
                         <div class="heroCardImg">
-                            <img src="@/assets/images/heroImg2-2023.png" alt="" />
+                            <h3>Day 1</h3>
                         </div>
                         <div class="heroCardContent">
-                            <h3>Day 1</h3>
+                            <a href="/photos-day-1" class="ticketCard"><button>View Gallery</button></a>
                         </div>
                     </div>
                 </div>
@@ -40,8 +40,11 @@
                         <div class="heroCardImg">
                             <img src="@/assets/images/heroImg3-2023.png" alt="" />
                         </div>
-                        <div class="heroCardContent">
+                        <div class="heroCardImg">
                             <h3>Day 2</h3>
+                        </div>
+                        <div class="heroCardContent">
+                            <a href="/photos-day-2" class="ticketCard"><button>View Gallery</button></a>
                         </div>
                     </div>
                 </div>

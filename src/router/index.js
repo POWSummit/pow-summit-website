@@ -61,9 +61,19 @@ const routes = [
 		component: Photos_2023,
 	},
 	{
-		path: "/2023/videos",
-		name: "2023videos",
-		component: Videos_2023,
+		path: "/2023/photos-opening-night",
+		name: "2023photos-opening-night",
+		component: Photos_2023,
+	},
+	{
+		path: "/2023/photos-day-1",
+		name: "2023photos-day-1",
+		component: Photos_2023,
+	},
+	{
+		path: "/2023/photos-day-2",
+		name: "2023photos-day-2",
+		component: Photos_2023,
 	},
 	{
 		path: "/photos",
