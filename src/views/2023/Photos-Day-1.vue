@@ -14,41 +14,6 @@
             <div class="galleryHeroContainer">
                 <h1>Day 1</h1>
             </div>
-            <div class="row">
-                <div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
-                    <div class="heroCard">
-                        <div class="heroCardImg">
-                            <h3>Opening Night Party</h3>
-                        </div>
-                        <div class="heroCardContent">
-                            <a href="/photos-2023-opening-night" class="ticketCard"><button>View Gallery</button></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
-                    <div class="heroCard">
-                        <div class="heroCardImg">
-                            <h3>Day 1</h3>
-                        </div>
-                        <div class="heroCardContent">
-                            <a href="/photos-2023-day-1" class="ticketCard"><button>View Gallery</button></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
-                    <div class="heroCard">
-                        <div class="heroCardImg">
-                            <img src="@/assets/images/heroImg3-2023.png" alt="" />
-                        </div>
-                        <div class="heroCardImg">
-                            <h3>Day 2</h3>
-                        </div>
-                        <div class="heroCardContent">
-                            <a href="/photos-2023-day-2" class="ticketCard"><button>View Gallery</button></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div>
         
 
@@ -61,7 +26,7 @@
             <div class="row">
                 <template v-for="(item, i) in photos.data" :key="i"">
                     <h2  v-if="item.title=='Opening Party'>{{ item.title }}</h2>
-                    <template v-for="(imageName, j) in item.images" :key="j"  v-if="item.title=='Opening Party'>
+                    <template v-for="(imageName, j) in item.images" :key="j"  v-if="item.title=='Opening Party'">
                         <div class="p-2 galleryImg" :class="getImageClass(j)">
                             <img v-lazy="require(`@/assets/images/photos/2023/${imageName}`)" @click="() => showImg(i, j)" alt="gallery-img" />
                         </div>
