@@ -62,12 +62,12 @@ const routes = [
 	},
 	{
 		path: "/2023/photos-opening-night",
-		name: "2023photos-opening-night",
+		name: "photos-opening-night",
 		component: Photos_2023,
 	},
 	{
 		path: "/2023/photos-day-1",
-		name: "2023photos-day-1",
+		name: "photos-day-1",
 		component: Photos_2023,
 	},
 	{
