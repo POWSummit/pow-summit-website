@@ -24,9 +24,9 @@
     <section class="gallerySection">
         <div class="galleryContainer">
             <div class="row">
-                <template v-for="(item, i) in photos.data" :key="i"">
-                    <h2  v-if="item.title=='Opening Party'>{{ item.title }}</h2>
-                    <template v-for="(imageName, j) in item.images" :key="j"  v-if="item.title=='Opening Party'">
+                <template v-for="(item, i) in photos.data.filter(i => i.title==='Opening Party')" :key="i"">
+                    <h2>{{ item.title }}</h2>
+                    <template v-for="(imageName, j) in item.images" :key="j">
                         <div class="p-2 galleryImg" :class="getImageClass(j)">
                             <img v-lazy="require(`@/assets/images/photos/2023/${imageName}`)" @click="() => showImg(i, j)" alt="gallery-img" />
                         </div>
@@ -77,7 +77,7 @@ export default {
         },
         onHide() {
             this.visibleRef = false
-        },
+        }
     },
     mounted() {
         for (let i = 0; i < this.photos.data.length; i++) {
