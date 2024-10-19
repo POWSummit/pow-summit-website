@@ -12,46 +12,9 @@
                 </div>
             </div>
             <div class="galleryHeroContainer">
-                <h1>Day 2</h1>
-            </div>
-            <div class="row">
-                <div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
-                    <div class="heroCard">
-                        <div class="heroCardImg">
-                            <h3>Opening Night Party</h3>
-                        </div>
-                        <div class="heroCardContent">
-                            <a href="/photos-2023-opening-night" class="ticketCard"><button>View Gallery</button></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
-                    <div class="heroCard">
-                        <div class="heroCardImg">
-                            <h3>Day 1</h3>
-                        </div>
-                        <div class="heroCardContent">
-                            <a href="/photos-2023-day-1" class="ticketCard"><button>View Gallery</button></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
-                    <div class="heroCard">
-                        <div class="heroCardImg">
-                            <img src="@/assets/images/heroImg3-2023.png" alt="" />
-                        </div>
-                        <div class="heroCardImg">
-                            <h3>Day 2</h3>
-                        </div>
-                        <div class="heroCardContent">
-                            <a href="/photos-2023-day-2" class="ticketCard"><button>View Gallery</button></a>
-                        </div>
-                    </div>
-                </div>
+                <h1>Proof of Work 2023 Conference Photos - Prague</h1>
             </div>
         </div>
-        
-
         
 	</section>
 
@@ -59,7 +22,12 @@
     <section class="gallerySection">
         <div class="galleryContainer">
             <div class="row">
-                <template v-for="(item, i) in photos.data" :key="i">
+                <div class="galleryHeroContainer">
+                    <h2>Day 2</h2>
+                </div>
+            </div>
+            <div class="row">
+                <template v-for="(item, i) in photos.data.filter(i => item.title==='POW Summit Day 2')" :key="i">
                     <h2>{{ item.title }}</h2>
                     <template v-for="(imageName, j) in item.images" :key="j">
                         <div class="p-2 galleryImg" :class="getImageClass(j)">

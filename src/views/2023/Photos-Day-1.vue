@@ -12,19 +12,22 @@
                 </div>
             </div>
             <div class="galleryHeroContainer">
-                <h1>Day 1</h1>
+                <h1>Proof of Work 2023 Conference Photos - Prague</h1>
             </div>
         </div>
-        
 
-        
 	</section>
 
     <!-- hero section with navbar ends here -->
     <section class="gallerySection">
         <div class="galleryContainer">
             <div class="row">
-                <template v-for="(item, i) in photos.data.filter(i => i.title==='Opening Party')" :key="i"">
+                <div class="galleryHeroContainer">
+                    <h2>Day 1</h2>
+                </div>
+            </div>
+            <div class="row">
+                <template v-for="(item, i) in photos.data.filter(i => item.title==='POW Summit Day 1')" :key="i"">
                     <h2>{{ item.title }}</h2>
                     <template v-for="(imageName, j) in item.images" :key="j">
                         <div class="p-2 galleryImg" :class="getImageClass(j)">
