@@ -9,6 +9,9 @@ import PrivacyPolicy from "@/views/PrivacyPolicy.vue";
 import Videos_2023 from "@/views/2023/Videos.vue";
 import Videos_2024 from "@/views/2024/Videos.vue";
 import Photos_2023 from "@/views/2023/Photos.vue";
+import Photos_2023_Opening_Night from "@/views/2023/Photos-Opening-Night.vue";
+import Photos_2023_Day_1 from "@/views/2023/Photos-Day-1.vue";
+import Photos_2023_Day_2 from "@/views/2023/Photos-Day-2.vue";
 import Photos_2024 from "@/views/2024/Photos.vue";
 import PostView from "@/views/PostView.vue";
 import Blog from "@/views/Blog.vue";
@@ -63,17 +66,17 @@ const routes = [
 	{
 		path: "/2023/photos-opening-night",
 		name: "photos-opening-night",
-		component: Photos_2023,
+		component: Photos_2023_Opening_Night,
 	},
 	{
 		path: "/2023/photos-day-1",
 		name: "photos-day-1",
-		component: Photos_2023,
+		component: Photos_2023_Day_1,
 	},
 	{
 		path: "/2023/photos-day-2",
-		name: "2023photos-day-2",
-		component: Photos_2023,
+		name: "photos-day-2",
+		component: Photos_2023_Day_2,
 	},
 	{
 		path: "/photos",
