@@ -27,7 +27,7 @@
                 </div>
             </div>
             <div class="row">
-                <template v-for="(item, i) in photos.data.filter(item => item.title==='POW Summit Day 1')" :key="i"">
+                <template v-for="(item, i) in limitData('POW Summit Day 1')" :key="i"">
                     <h2>{{ item.title }}</h2>
                     <template v-for="(imageName, j) in item.images" :key="j">
                         <div class="p-2 galleryImg" :class="getImageClass(j)">
@@ -69,6 +69,9 @@ export default {
         getImageClass(index) {
             const modC = Math.ceil((index + 1) / 6) * 6;
             return (index + 1) <= modC - 2 ? 'col-md-3 col-6' : 'col-lg-6 col-12';
+        },
+        limitData(galleryTitle) {
+            return this.photos.data.filter(item => item.title===galleryTitle);
         },
         showImg(i, j) {
             let value = 0;
