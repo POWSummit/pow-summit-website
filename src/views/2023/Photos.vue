@@ -11,10 +11,45 @@
                     </div>
                 </div>
             </div>
+            <div class="galleryHeroContainer">
+                <h1>Proof of Work 2023 Conference Photos - Prague</h1>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
+                    <div class="heroCard">
+                        <div class="heroCardImg">
+                            <img src="@/assets/images/heroImg1-2023.png" alt="" />
+                        </div>
+                        <div class="heroCardContent">
+                            <h3>Opening Night Party</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
+                    <div class="heroCard">
+                        <div class="heroCardImg">
+                            <img src="@/assets/images/heroImg2-2023.png" alt="" />
+                        </div>
+                        <div class="heroCardContent">
+                            <h3>Day 1</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
+                    <div class="heroCard">
+                        <div class="heroCardImg">
+                            <img src="@/assets/images/heroImg3-2023.png" alt="" />
+                        </div>
+                        <div class="heroCardContent">
+                            <h3>Day 2</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
-        <div class="galleryHeroContainer">
-            <h1>Proof of Work 2023 Conference Photos - Prague</h1>
-        </div>
+        
+
+        
 	</section>
 
     <!-- hero section with navbar ends here -->
