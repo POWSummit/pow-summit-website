@@ -27,7 +27,7 @@
                 </div>
             </div>
             <div class="row">
-                <template v-for="(item, i) in photos.data.filter(i => item.title==='POW Summit Day 1')" :key="i"">
+                <template v-for="(item, i) in photos.data.filter(item => item.title==='POW Summit Day 1')" :key="i"">
                     <h2>{{ item.title }}</h2>
                     <template v-for="(imageName, j) in item.images" :key="j">
                         <div class="p-2 galleryImg" :class="getImageClass(j)">
