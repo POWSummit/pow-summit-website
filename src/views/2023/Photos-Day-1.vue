@@ -22,8 +22,26 @@
     <section class="gallerySection">
         <div class="galleryContainer">
             <div class="row">
-                <div class="galleryHeroContainer">
-                    <h2>Day 1</h2>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
+                    <div class="heroCard">
+                        <div class="heroCardContent">
+                            <a href="/2023/photos-opening-night" class="ticketCard"><button>Opening Night Party Gallery</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
+                    <div class="heroCard">
+                        <div class="heroCardContent">
+                            <a href="/2023/photos-day-1" class="ticketCard"><button>Day 1 Gallery</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
+                    <div class="heroCard">
+                        <div class="heroCardContent">
+                            <a href="/2023/photos-day-2" class="ticketCard"><button>Day 2 Gallery</button></a>
+                        </div>
+                    </div>
                 </div>
             </div>
             <div class="row">
