@@ -45,7 +45,7 @@
                 </div>
             </div>
             <div class="row">
-                <template v-for="(item, i)  this.gallery_data" :key="i"">
+                <template v-for="(item, i) in this.gallery_data" :key="i"">
                     <h2>{{ item.title }}</h2>
                     <template v-for="(imageName, j) in item.images" :key="j">
                         <div class="p-2 galleryImg" :class="getImageClass(j)">
