@@ -45,7 +45,7 @@
                 </div>
             </div>
             <div class="row">
-                <template v-for="(item, i) in limitData('POW Summit Day 1')" :key="i"">
+                <template v-for="(item, i) in this.gallery_data" :key="i"">
                     <h2>{{ item.title }}</h2>
                     <template v-for="(imageName, j) in item.images" :key="j">
                         <div class="p-2 galleryImg" :class="getImageClass(j)">
@@ -81,6 +81,7 @@ export default {
             visibleRef: false,
             indexRef: 0,
             imagesArr: [],
+            gallery_data: []
         }
     },
     methods: {
@@ -94,7 +95,8 @@ export default {
         showImg(i, j) {
             let value = 0;
             for (let k = 0; k < i; k++) {
-                value += this.photos.data[k].images.length;
+                //value += this.photos.data[k].images.length;
+                value += this.gallery_data[k].images.length;
             }
             this.indexRef = value + j
             this.visibleRef = true
@@ -104,9 +106,12 @@ export default {
         }
     },
     mounted() {
-        for (let i = 0; i < this.photos.data.length; i++) {
+        let gallery = 'POW Summit Day 1';
+        this.gallery_data = limitData(gallery);
+        //for (let i = 0; i < this.photos.data.length; i++) {
+        for (let i = 0; i < this.gallery_data.length; i++) {
             this.imagesArr = this.imagesArr.concat(
-                this.photos.data[i].images.map(item => {
+                this.gallery_data[i].images.map(item => {
                     return require(`@/assets/images/photos/2023/${item}`)
                 }));
         }
