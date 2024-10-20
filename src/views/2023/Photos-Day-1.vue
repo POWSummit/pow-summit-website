@@ -81,6 +81,7 @@ export default {
             visibleRef: false,
             indexRef: 0,
             imagesArr: [],
+            gallery: 'POW Summit Day 1';
             gallery_data: []
         }
     },
@@ -106,8 +107,9 @@ export default {
         }
     },
     mounted() {
-        let gallery = 'POW Summit Day 1';
-        this.gallery_data = limitData(gallery);
+        //let gallery = 'POW Summit Day 1';
+        //this.gallery_data = this.limitData(gallery);
+        this.gallery_data = this.photos.data.filter(item => item.title===this.gallery);
         //for (let i = 0; i < this.photos.data.length; i++) {
         for (let i = 0; i < this.gallery_data.length; i++) {
             this.imagesArr = this.imagesArr.concat(
