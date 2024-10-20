@@ -44,11 +44,6 @@ const routes = [
 		component: PrivacyPolicy,
 	},
 	{
-		path: "/2024/photos",
-		name: "2024photos",
-		component: Photos_2024,
-	},
-	{
 		path: "/2024/schedule",
 		name: "2024schedule",
 		component: Schedule,
@@ -82,6 +77,16 @@ const routes = [
 		path: "/2023/photos-day-2",
 		name: "photos-day-2",
 		component: Photos_2023_Day_2,
+	},
+	{
+		path: "/2024/photos",
+		name: "2024photos",
+		component: Photos_2024,
+	},
+	{
+		path: "/2024/photos-opening-night",
+		name: "photos-opening-night",
+		component: Photos_2024_Opening_Night,
 	},
 	{
 		path: "/photos",
