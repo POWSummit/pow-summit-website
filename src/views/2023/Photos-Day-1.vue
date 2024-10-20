@@ -96,7 +96,6 @@ export default {
         showImg(i, j) {
             let value = 0;
             for (let k = 0; k < i; k++) {
-                //value += this.photos.data[k].images.length;
                 value += this.gallery_data[k].images.length;
             }
             this.indexRef = value + j
@@ -107,10 +106,7 @@ export default {
         }
     },
     mounted() {
-        //let gallery = 'POW Summit Day 1';
-        //this.gallery_data = this.limitData(gallery);
         this.gallery_data = this.photos.data.filter(item => item.title===this.gallery);
-        //for (let i = 0; i < this.photos.data.length; i++) {
         for (let i = 0; i < this.gallery_data.length; i++) {
             this.imagesArr = this.imagesArr.concat(
                 this.gallery_data[i].images.map(item => {
