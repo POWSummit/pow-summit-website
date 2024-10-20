@@ -13,6 +13,7 @@ import Photos_2023_Opening_Night from "@/views/2023/Photos-Opening-Night.vue";
 import Photos_2023_Day_1 from "@/views/2023/Photos-Day-1.vue";
 import Photos_2023_Day_2 from "@/views/2023/Photos-Day-2.vue";
 import Photos_2024 from "@/views/2024/Photos.vue";
+import Photos_2024_Opening_Night from "@/views/2024/Photos-Opening-Night.vue";
 import PostView from "@/views/PostView.vue";
 import Blog from "@/views/Blog.vue";
 import Schedule from "@/views/2024/Schedule.vue";
