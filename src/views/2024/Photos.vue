@@ -21,7 +21,7 @@
     <section class="gallerySection">
         <div class="galleryContainer">
             <div class="row">
-                <div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
+                <div class="col-lg-4 col-md-6 col-sm-6 col-12 px-md-3">
                     <div class="heroCard">
                         <div class="heroCardImg">
                             <img src="@/assets/images/photos/2024/thumbnails/VIP.png" alt="VIP" />
@@ -31,7 +31,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
+                <div class="col-lg-4 col-md-6 col-sm-6 col-12 px-md-3">
                     <div class="heroCard">
                         <div class="heroCardImg">
                             <img src="@/assets/images/photos/2024/thumbnails/D1S1.png" alt="Day 1 Stage 1" />
@@ -41,7 +41,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
+                <div class="col-lg-4 col-md-6 col-sm-6 col-12 px-md-3">
                     <div class="heroCard">
                         <div class="heroCardImg">
                             <img src="@/assets/images/photos/2024/thumbnails/D1S2.png" alt="Day 1 Stage 2" />
@@ -52,8 +52,12 @@
                     </div>
                 </div>
             </div>
+        </div>
+    </section>
+    <section class="gallerySection">
+        <div class="galleryContainer">
             <div class="row">
-                <div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
+                <div class="col-lg-4 col-md-6 col-sm-6 col-12 px-md-3">
                     <div class="heroCard">
                         <div class="heroCardImg">
                             <img src="@/assets/images/photos/2024/thumbnails/D2S1.png" alt="Day 2 Stage 1" />
@@ -63,7 +67,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
+                <div class="col-lg-4 col-md-6 col-sm-6 col-12 px-md-3">
                     <div class="heroCard">
                         <div class="heroCardImg">
                             <img src="@/assets/images/photos/2024/thumbnails/D2S2.png" alt="Day 2 Stage 2" />
@@ -73,7 +77,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
+                <div class="col-lg-4 col-md-6 col-sm-6 col-12 px-md-3">
                     <div class="heroCard">
                         <div class="heroCardImg">
                             <img src="@/assets/images/photos/2024/thumbnails/Hive.png" alt="HIVE Closing Party" />
