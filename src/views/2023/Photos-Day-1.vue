@@ -81,7 +81,7 @@ export default {
             visibleRef: false,
             indexRef: 0,
             imagesArr: [],
-            gallery: 'POW Summit Day 1';
+            gallery: 'POW Summit Day 1',
             gallery_data: []
         }
     },
