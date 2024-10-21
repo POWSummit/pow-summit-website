@@ -65,13 +65,23 @@ const routes = [
 		component: Videos_2023,
 	},
 	{
+		path: "/photos",
+		name: "photos",
+		component: Photos_2024,
+	},
+	{
+		path: "/videos",
+		name: "videos",
+		component: Videos_2024,
+	},
+	{
 		path: "/2023/photos",
 		name: "2023photos",
 		component: Photos_2023,
 	},
 	{
 		path: "/2023/photos-opening-night",
-		name: "photos-opening-night",
+		name: "2023-photos-opening-night",
 		component: Photos_2023_Opening_Night,
 	},
 	{
@@ -91,7 +101,7 @@ const routes = [
 	},
 	{
 		path: "/2024/photos-opening-night",
-		name: "photos-opening-night",
+		name: "2024-photos-opening-night",
 		component: Photos_2024_Opening_Night,
 	},
 	{
@@ -118,16 +128,6 @@ const routes = [
 		path: "/2024/photos-hive-closing-party",
 		name: "photos-hive-closing-party",
 		component: Photos_2024_Hive_Closing_Party,
-	},
-	{
-		path: "/photos",
-		name: "photos",
-		component: Photos_2024,
-	},
-	{
-		path: "/videos",
-		name: "videos",
-		component: Videos_2024,
 	},
 	{
 		path: "/blog",
