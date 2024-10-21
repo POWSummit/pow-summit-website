@@ -37,7 +37,7 @@
                             <img src="@/assets/images/photos/2024/thumbnails/D1S1.png" alt="Day 1 Stage 1" />
                         </div>
                         <div class="heroCardContent">
-                            <a href="/2023/photos-opening-night" class="ticketCard"><button>Day 1 Stage 1</button></a>
+                            <a href="/2024/photos-day-1-stage-1" class="ticketCard"><button>Day 1 Stage 1</button></a>
                         </div>
                     </div>
                 </div>
@@ -47,7 +47,7 @@
                             <img src="@/assets/images/photos/2024/thumbnails/D1S2.png" alt="Day 1 Stage 2" />
                         </div>
                         <div class="heroCardContent">
-                            <a href="/2023/photos-opening-night" class="ticketCard"><button>Day 1 Stage 2</button></a>
+                            <a href="/2024/photos-day-1-stage-2" class="ticketCard"><button>Day 1 Stage 2</button></a>
                         </div>
                     </div>
                 </div>
@@ -63,7 +63,7 @@
                             <img src="@/assets/images/photos/2024/thumbnails/D2S1.png" alt="Day 2 Stage 1" />
                         </div>
                         <div class="heroCardContent">
-                            <a href="/2023/photos-opening-night" class="ticketCard"><button>Day 2 Stage 1</button></a>
+                            <a href="/2024/photos-day-2-stage-1" class="ticketCard"><button>Day 2 Stage 1</button></a>
                         </div>
                     </div>
                 </div>
@@ -73,7 +73,7 @@
                             <img src="@/assets/images/photos/2024/thumbnails/D2S2.png" alt="Day 2 Stage 2" />
                         </div>
                         <div class="heroCardContent">
-                            <a href="/2023/photos-opening-night" class="ticketCard"><button>Day 2 Stage 2</button></a>
+                            <a href="/2024/photos-day-2-stage-2" class="ticketCard"><button>Day 2 Stage 2</button></a>
                         </div>
                     </div>
                 </div>
@@ -83,7 +83,7 @@
                             <img src="@/assets/images/photos/2024/thumbnails/Hive.png" alt="HIVE Closing Party" />
                         </div>
                         <div class="heroCardContent">
-                            <a href="/2024/photos-opening-night" class="ticketCard"><button>HIVE Closing Party</button></a>
+                            <a href="/2024/photos-hive-closing-party" class="ticketCard"><button>HIVE Closing Party</button></a>
                         </div>
                     </div>
                 </div>
