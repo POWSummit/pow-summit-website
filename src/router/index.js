@@ -95,31 +95,6 @@ const routes = [
 		component: Photos_2024_Opening_Night,
 	},
 	{
-		path: "/2024/photos-day-1-stage-1",
-		name: "photos-day-1-stage-1",
-		component: Photos_2024_Day_1_Stage_1,
-	},
-	{
-		path: "/2024/photos-day-1-stage-2",
-		name: "photos-day-1-stage-2",
-		component: Photos_2024_Day_1_Stage_2,
-	},
-	{
-		path: "/2024/photos-day-2-stage-1",
-		name: "photos-day-2-stage-1",
-		component: Photos_2024_Day_2_Stage_1,
-	},
-	{
-		path: "/2024/photos-day-2-stage-2",
-		name: "photos-day-2-stage-2",
-		component: Photos_2024_Day_2_Stage_2,
-	},
-	{
-		path: "/2024/photos-hive-closing-party",
-		name: "photos-hive-closing-party",
-		component: Photos_2024_Hive_Closing_Party,
-	},
-	{
 		path: "/photos",
 		name: "photos",
 		component: Photos_2024,
