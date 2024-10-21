@@ -23,9 +23,6 @@
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-12 col-12 px-md-3">
                     <div class="heroCard">
-                        <div class="heroCardImg">
-                            <img src="@/assets/images/photos/2024/thumbnails/VIP.png" alt="VIP" />
-                        </div>
                         <div class="heroCardContent">
                             <a href="/2024/photos-opening-night" class="ticketCard"><button>Opening Night Party</button></a>
                         </div>
@@ -33,9 +30,6 @@
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12 col-12 px-md-3">
                     <div class="heroCard">
-                        <div class="heroCardImg">
-                            <img src="@/assets/images/photos/2024/thumbnails/D1S1.png" alt="Day 1 Stage 1" />
-                        </div>
                         <div class="heroCardContent">
                             <a href="/2023/photos-opening-night" class="ticketCard"><button>Day 1 Stage 1</button></a>
                         </div>
@@ -43,9 +37,6 @@
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12 col-12 px-md-3">
                     <div class="heroCard">
-                        <div class="heroCardImg">
-                            <img src="@/assets/images/photos/2024/thumbnails/D1S2.png" alt="Day 1 Stage 2" />
-                        </div>
                         <div class="heroCardContent">
                             <a href="/2023/photos-opening-night" class="ticketCard"><button>Day 1 Stage 2</button></a>
                         </div>
@@ -59,9 +50,6 @@
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-12 col-12 px-md-3">
                     <div class="heroCard">
-                        <div class="heroCardImg">
-                            <img src="@/assets/images/photos/2024/thumbnails/D2S1.png" alt="Day 2 Stage 1" />
-                        </div>
                         <div class="heroCardContent">
                             <a href="/2023/photos-opening-night" class="ticketCard"><button>Day 2 Stage 1</button></a>
                         </div>
@@ -69,9 +57,6 @@
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12 col-12 px-md-3">
                     <div class="heroCard">
-                        <div class="heroCardImg">
-                            <img src="@/assets/images/photos/2024/thumbnails/D2S2.png" alt="Day 2 Stage 2" />
-                        </div>
                         <div class="heroCardContent">
                             <a href="/2023/photos-opening-night" class="ticketCard"><button>Day 2 Stage 2</button></a>
                         </div>
@@ -79,14 +64,21 @@
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12 col-12 px-md-3">
                     <div class="heroCard">
-                        <div class="heroCardImg">
-                            <img src="@/assets/images/photos/2024/thumbnails/Hive.png" alt="HIVE Closing Party" />
-                        </div>
                         <div class="heroCardContent">
                             <a href="/2024/photos-opening-night" class="ticketCard"><button>HIVE Closing Party</button></a>
                         </div>
                     </div>
                 </div>
+            </div>
+            <div class="row">
+                <template v-for="(item, i) in this.gallery_data" :key="i"">
+                    <h2>{{ item.title }}</h2>
+                    <template v-for="(imageName, j) in item.images" :key="j">
+                        <div class="p-2 galleryImg" :class="getImageClass(j)">
+                            <img v-lazy="require(`@/assets/images/photos/2024/${imageName}`)" @click="() => showImg(i, j)" alt="gallery-img" />
+                        </div>
+                    </template>
+                </template>
             </div>
         </div>
     </section>
