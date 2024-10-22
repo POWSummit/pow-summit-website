@@ -31,28 +31,28 @@
                 <div class="col-lg-4 col-md-4 col-sm-12 col-12 px-md-3">
                     <div class="heroCard">
                         <div class="heroCardContent">
-                            <a href="/2024/photos-day-1-stage-1" class="ticketCard"><button>Day 1 Stage 1</button></a>
+                            <a href="/2024/photos-day-1-part-1" class="ticketCard"><button>Day 1 Part 1</button></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12 col-12 px-md-3">
                     <div class="heroCard">
                         <div class="heroCardContent">
-                            <a href="/2024/photos-day-1-stage-2" class="ticketCard"><button>Day 1 Stage 2</button></a>
+                            <a href="/2024/photos-day-1-part-2" class="ticketCard"><button>Day 1 Part 2</button></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12 col-12 px-md-3">
                     <div class="heroCard">
                         <div class="heroCardContent">
-                            <a href="/2024/photos-day-2-stage-1" class="ticketCard"><button>Day 2 Stage 1</button></a>
+                            <a href="/2024/photos-day-2-part-1" class="ticketCard"><button>Day 2 Part 1</button></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12 col-12 px-md-3">
                     <div class="heroCard">
                         <div class="heroCardContent">
-                            <a href="/2024/photos-day-2-stage-2" class="ticketCard"><button>Day 2 Stage 2</button></a>
+                            <a href="/2024/photos-day-2-part-2" class="ticketCard"><button>Day 2 Part 2</button></a>
                         </div>
                     </div>
                 </div>
@@ -101,7 +101,7 @@ export default {
             visibleRef: false,
             indexRef: 0,
             imagesArr: [],
-            gallery: 'Day 2 Stage 2',
+            gallery: 'Day 1 Part 1',
             gallery_data: []
         }
     },

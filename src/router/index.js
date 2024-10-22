@@ -14,10 +14,10 @@ import Photos_2023_Day_1 from "@/views/2023/Photos-Day-1.vue";
 import Photos_2023_Day_2 from "@/views/2023/Photos-Day-2.vue";
 import Photos_2024 from "@/views/2024/Photos.vue";
 import Photos_2024_Opening_Night from "@/views/2024/Photos-Opening-Night.vue";
-import Photos_2024_Day_1_Stage_1 from "@/views/2024/Photos-Day-1-Stage-1.vue";
-import Photos_2024_Day_1_Stage_2 from "@/views/2024/Photos-Day-1-Stage-2.vue";
-import Photos_2024_Day_2_Stage_1 from "@/views/2024/Photos-Day-2-Stage-1.vue";
-import Photos_2024_Day_2_Stage_2 from "@/views/2024/Photos-Day-2-Stage-2.vue";
+import Photos_2024_Day_1_Part_1 from "@/views/2024/Photos-Day-1-Part-1.vue";
+import Photos_2024_Day_1_Part_2 from "@/views/2024/Photos-Day-1-Part-2.vue";
+import Photos_2024_Day_2_Part_1 from "@/views/2024/Photos-Day-2-Part-1.vue";
+import Photos_2024_Day_2_Part_2 from "@/views/2024/Photos-Day-2-Part-2.vue";
 import Photos_2024_Hive_Closing_Party from "@/views/2024/Photos-Hive-Closing-Party.vue";
 import PostView from "@/views/PostView.vue";
 import Blog from "@/views/Blog.vue";
@@ -105,24 +105,24 @@ const routes = [
 		component: Photos_2024_Opening_Night,
 	},
 	{
-		path: "/2024/photos-day-1-stage-1",
-		name: "photos-day-1-stage-1",
-		component: Photos_2024_Day_1_Stage_1,
+		path: "/2024/photos-day-1-part-1",
+		name: "photos-day-1-part-1",
+		component: Photos_2024_Day_1_Part_1,
 	},
 	{
-		path: "/2024/photos-day-1-stage-2",
-		name: "photos-day-1-stage-2",
-		component: Photos_2024_Day_1_Stage_2,
+		path: "/2024/photos-day-1-part-2",
+		name: "photos-day-1-part-2",
+		component: Photos_2024_Day_1_Part_2,
 	},
 	{
-		path: "/2024/photos-day-2-stage-1",
-		name: "photos-day-2-stage-1",
-		component: Photos_2024_Day_2_Stage_1,
+		path: "/2024/photos-day-2-part-1",
+		name: "photos-day-2-part-1",
+		component: Photos_2024_Day_2_Part_1,
 	},
 	{
-		path: "/2024/photos-day-2-stage-2",
-		name: "photos-day-2-stage-2",
-		component: Photos_2024_Day_2_Stage_2,
+		path: "/2024/photos-day-2-part-2",
+		name: "photos-day-2-part-2",
+		component: Photos_2024_Day_2_Part_2,
 	},
 	{
 		path: "/2024/photos-hive-closing-party",
