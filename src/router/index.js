@@ -8,6 +8,7 @@ import PrivacyPolicy from "@/views/PrivacyPolicy.vue";
 
 import Videos_2023 from "@/views/2023/Videos.vue";
 import Videos_2024 from "@/views/2024/Videos.vue";
+import Videos_2024_Day_1_Part_1 from "@/views/2024/Videos-Day-1-Part-1.vue";
 import Photos_2023 from "@/views/2023/Photos.vue";
 import Photos_2023_Opening_Night from "@/views/2023/Photos-Opening-Night.vue";
 import Photos_2023_Day_1 from "@/views/2023/Photos-Day-1.vue";
@@ -55,6 +56,11 @@ const routes = [
 		component: Schedule,
 	},
 	{
+		path: "/videos",
+		name: "videos",
+		component: Videos_2024,
+	},
+	{
 		path: "/2024/videos",
 		name: "2024videos",
 		component: Videos_2024,
@@ -65,14 +71,14 @@ const routes = [
 		component: Videos_2023,
 	},
 	{
+		path: "/2024/videos-day-1-stage-1",
+		name: "2024-videos-day-1-stage-1",
+		component: Videos_2024_Day_1_Part_1,
+	},
+	{
 		path: "/photos",
 		name: "photos",
 		component: Photos_2024,
-	},
-	{
-		path: "/videos",
-		name: "videos",
-		component: Videos_2024,
 	},
 	{
 		path: "/2023/photos",
