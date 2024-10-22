@@ -71,8 +71,8 @@ const routes = [
 		component: Videos_2023,
 	},
 	{
-		path: "/2024/videos-day-1-stage-1",
-		name: "2024-videos-day-1-stage-1",
+		path: "/2024/videos-day-1-part-1",
+		name: "2024-videos-day-1-part-1",
 		component: Videos_2024_Day_1_Part_1,
 	},
 	{
