@@ -24,28 +24,28 @@
                 <div class="col-lg-3 col-md-6 col-sm-12 col-12 px-md-3">
                     <div class="heroCard">
                         <div class="heroCardContent">
-                            <a href="/2024/videos-day-1-stage-1" class="ticketCard"><button>Day 1 Stage 1</button></a>
+                            <a href="/2024/videos-day-1-part-1" class="ticketCard"><button>Day 1 Part 1</button></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12 col-12 px-md-3">
                     <div class="heroCard">
                         <div class="heroCardContent">
-                            <a href="/2024/videos-day-1-stage-2" class="ticketCard"><button>Day 1 Stage 2</button></a>
+                            <a href="/2024/videos-day-1-part-2" class="ticketCard"><button>Day 1 Part 2</button></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12 col-12 px-md-3">
                     <div class="heroCard">
                         <div class="heroCardContent">
-                            <a href="/2024/videos-day-2-stage-1" class="ticketCard"><button>Day 2 Stage 1</button></a>
+                            <a href="/2024/videos-day-2-part-1" class="ticketCard"><button>Day 2 Part 1</button></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12 col-12 px-md-3">
                     <div class="heroCard">
                         <div class="heroCardContent">
-                            <a href="/2024/videos-day-2-stage-2" class="ticketCard"><button>Day 2 Stage 2</button></a>
+                            <a href="/2024/videos-day-2-part-2" class="ticketCard"><button>Day 2 Part 2</button></a>
                         </div>
                     </div>
                 </div>
@@ -98,7 +98,7 @@ export default {
     },
     methods: {
         async fetchVideos() {
-            const response = await axios.get('https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=50&playlistId=PL6M4J55WQYzxm8Glh8aTIYATArK90hf51&key=AIzaSyDsLvG31mXz6L3cD17_CHmfnp2zz9S5ooE');
+            const response = await axios.get('https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=50&playlistId=PL6M4J55WQYzxBRYOO7FtsxlbIgeiBnauJ&key=AIzaSyDsLvG31mXz6L3cD17_CHmfnp2zz9S5ooE');
             
             this.videos = response.data?.items;
             this.sources = this.videos.map(item => `https://www.youtube.com/watch?v=${item?.snippet?.resourceId?.videoId}`);
