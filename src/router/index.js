@@ -8,8 +8,21 @@ import PrivacyPolicy from "@/views/PrivacyPolicy.vue";
 
 import Videos_2023 from "@/views/2023/Videos.vue";
 import Videos_2024 from "@/views/2024/Videos.vue";
+import Videos_2024_Day_1_Part_1 from "@/views/2024/Videos-Day-1-Part-1.vue";
+import Videos_2024_Day_1_Part_2 from "@/views/2024/Videos-Day-1-Part-2.vue";
+import Videos_2024_Day_2_Part_1 from "@/views/2024/Videos-Day-2-Part-1.vue";
+import Videos_2024_Day_2_Part_2 from "@/views/2024/Videos-Day-2-Part-2.vue";
 import Photos_2023 from "@/views/2023/Photos.vue";
+import Photos_2023_Opening_Night from "@/views/2023/Photos-Opening-Night.vue";
+import Photos_2023_Day_1 from "@/views/2023/Photos-Day-1.vue";
+import Photos_2023_Day_2 from "@/views/2023/Photos-Day-2.vue";
 import Photos_2024 from "@/views/2024/Photos.vue";
+import Photos_2024_Opening_Night from "@/views/2024/Photos-Opening-Night.vue";
+import Photos_2024_Day_1_Part_1 from "@/views/2024/Photos-Day-1-Part-1.vue";
+import Photos_2024_Day_1_Part_2 from "@/views/2024/Photos-Day-1-Part-2.vue";
+import Photos_2024_Day_2_Part_1 from "@/views/2024/Photos-Day-2-Part-1.vue";
+import Photos_2024_Day_2_Part_2 from "@/views/2024/Photos-Day-2-Part-2.vue";
+import Photos_2024_Hive_Closing_Party from "@/views/2024/Photos-Hive-Closing-Party.vue";
 import PostView from "@/views/PostView.vue";
 import Blog from "@/views/Blog.vue";
 import Schedule from "@/views/2024/Schedule.vue";
@@ -41,14 +54,14 @@ const routes = [
 		component: PrivacyPolicy,
 	},
 	{
-		path: "/2024/photos",
-		name: "2024photos",
-		component: Photos_2024,
-	},
-	{
 		path: "/2024/schedule",
 		name: "2024schedule",
 		component: Schedule,
+	},
+	{
+		path: "/videos",
+		name: "videos",
+		component: Videos_2024,
 	},
 	{
 		path: "/2024/videos",
@@ -56,14 +69,29 @@ const routes = [
 		component: Videos_2024,
 	},
 	{
-		path: "/2023/photos",
-		name: "2023photos",
-		component: Photos_2023,
-	},
-	{
 		path: "/2023/videos",
 		name: "2023videos",
 		component: Videos_2023,
+	},
+	{
+		path: "/2024/videos-day-1-part-1",
+		name: "2024-videos-day-1-part-1",
+		component: Videos_2024_Day_1_Part_1,
+	},
+	{
+		path: "/2024/videos-day-1-part-2",
+		name: "2024-videos-day-1-part-2",
+		component: Videos_2024_Day_1_Part_2,
+	},
+	{
+		path: "/2024/videos-day-2-part-1",
+		name: "2024-videos-day-2-part-1",
+		component: Videos_2024_Day_2_Part_1,
+	},
+	{
+		path: "/2024/videos-day-2-part-2",
+		name: "2024-videos-day-2-part-2",
+		component: Videos_2024_Day_2_Part_2,
 	},
 	{
 		path: "/photos",
@@ -71,9 +99,59 @@ const routes = [
 		component: Photos_2024,
 	},
 	{
-		path: "/videos",
-		name: "videos",
-		component: Videos_2024,
+		path: "/2023/photos",
+		name: "2023photos",
+		component: Photos_2023,
+	},
+	{
+		path: "/2023/photos-opening-night",
+		name: "2023-photos-opening-night",
+		component: Photos_2023_Opening_Night,
+	},
+	{
+		path: "/2023/photos-day-1",
+		name: "photos-day-1",
+		component: Photos_2023_Day_1,
+	},
+	{
+		path: "/2023/photos-day-2",
+		name: "photos-day-2",
+		component: Photos_2023_Day_2,
+	},
+	{
+		path: "/2024/photos",
+		name: "2024photos",
+		component: Photos_2024,
+	},
+	{
+		path: "/2024/photos-opening-night",
+		name: "2024-photos-opening-night",
+		component: Photos_2024_Opening_Night,
+	},
+	{
+		path: "/2024/photos-day-1-part-1",
+		name: "photos-day-1-part-1",
+		component: Photos_2024_Day_1_Part_1,
+	},
+	{
+		path: "/2024/photos-day-1-part-2",
+		name: "photos-day-1-part-2",
+		component: Photos_2024_Day_1_Part_2,
+	},
+	{
+		path: "/2024/photos-day-2-part-1",
+		name: "photos-day-2-part-1",
+		component: Photos_2024_Day_2_Part_1,
+	},
+	{
+		path: "/2024/photos-day-2-part-2",
+		name: "photos-day-2-part-2",
+		component: Photos_2024_Day_2_Part_2,
+	},
+	{
+		path: "/2024/photos-hive-closing-party",
+		name: "photos-hive-closing-party",
+		component: Photos_2024_Hive_Closing_Party,
 	},
 	{
 		path: "/blog",

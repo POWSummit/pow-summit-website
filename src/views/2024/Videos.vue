@@ -12,8 +12,58 @@
                 </div>
             </div>
         </div>
+        <div class="galleryHeroContainer">
+            <h1>Proof of Work 2024 Conference VIDEOS - Frankfurt</h1>
+        </div>
 	</section>
 	<!-- hero section with navbar ends here -->
+
+    <section class="videoSection">
+        <div class="videoContainer">
+            <div class="row">
+                <div class="col-lg-3 col-md-6 col-sm-12 col-12 px-md-3">
+                    <div class="heroCard">
+                        <div class="heroCardImg">
+                            <img src="@/assets/images/photos/2024/thumbnails/D1S1.png" alt="Day 1 Part 1" />
+                        </div>
+                        <div class="heroCardContent">
+                            <a href="/2024/videos-day-1-part-1" class="ticketCard"><button>Day 1 Part 1</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 col-12 px-md-3">
+                    <div class="heroCard">
+                        <div class="heroCardImg">
+                            <img src="@/assets/images/photos/2024/thumbnails/D1S2.png" alt="Day 1 Part 2" />
+                        </div>
+                        <div class="heroCardContent">
+                            <a href="/2024/videos-day-1-part-2" class="ticketCard"><button>Day 1 Part 2</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 col-12 px-md-3">
+                    <div class="heroCard">
+                        <div class="heroCardImg">
+                            <img src="@/assets/images/photos/2024/thumbnails/D2S1.png" alt="Day 2 Part 1" />
+                        </div>
+                        <div class="heroCardContent">
+                            <a href="/2024/videos-day-2-part-1" class="ticketCard"><button>Day 2 Part 1</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 col-12 px-md-3">
+                    <div class="heroCard">
+                        <div class="heroCardImg">
+                            <img src="@/assets/images/photos/2024/thumbnails/D2S2.png" alt="Day 2 Part 2" />
+                        </div>
+                        <div class="heroCardContent">
+                            <a href="/2024/videos-day-2-part-2" class="ticketCard"><button>Day 2 Part 2</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
 	<!-- location section starts here -->
 	<Footer />
@@ -45,7 +95,7 @@ export default {
     },
     methods: {
         async fetchVideos() {
-            const response = await axios.get('https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=50&playlistId=PL6M4J55WQYzxm8Glh8aTIYATArK90hf51&key=AIzaSyDsLvG31mXz6L3cD17_CHmfnp2zz9S5ooE');
+            const response = await axios.get('https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=50&playlistId=PL6M4J55WQYzxBRYOO7FtsxlbIgeiBnauJ&key=AIzaSyDsLvG31mXz6L3cD17_CHmfnp2zz9S5ooE');
             
             this.videos = response.data?.items;
             this.sources = this.videos.map(item => `https://www.youtube.com/watch?v=${item?.snippet?.resourceId?.videoId}`);

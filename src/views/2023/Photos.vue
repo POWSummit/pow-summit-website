@@ -11,24 +11,40 @@
                     </div>
                 </div>
             </div>
+            <div class="galleryHeroContainer">
+                <h1>Proof of Work 2023 Conference Photos - Prague</h1>
+            </div>
         </div>
-        <div class="galleryHeroContainer">
-            <h1>Proof of Work 2023 Conference Photos - Prague</h1>
-        </div>
+        
+
+        
 	</section>
 
     <!-- hero section with navbar ends here -->
     <section class="gallerySection">
         <div class="galleryContainer">
             <div class="row">
-                <template v-for="(item, i) in photos.data" :key="i">
-                    <h2>{{ item.title }}</h2>
-                    <template v-for="(imageName, j) in item.images" :key="j">
-                        <div class="p-2 galleryImg" :class="getImageClass(j)">
-                            <img v-lazy="require(`@/assets/images/photos/2023/${imageName}`)" @click="() => showImg(i, j)" alt="gallery-img" />
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
+                    <div class="heroCard">
+                        <div class="heroCardContent">
+                            <a href="/2023/photos-opening-night" class="ticketCard"><button>Opening Night Party</button></a>
                         </div>
-                    </template>
-                </template>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
+                    <div class="heroCard">
+                        <div class="heroCardContent">
+                            <a href="/2023/photos-day-1" class="ticketCard"><button>Day 1 Gallery</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12 px-md-3">
+                    <div class="heroCard">
+                        <div class="heroCardContent">
+                            <a href="/2023/photos-day-2" class="ticketCard"><button>Day 2 Gallery</button></a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
