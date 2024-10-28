@@ -24,7 +24,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-12 col-12 px-md-3">
                     <div class="heroCard">
                         <div class="heroCardImg">
-                            <img src="@/assets/images/photos/2024/thumbnails/D1S1.png" alt="Day 1 Part 1" />
+                            <img src="@/assets/images/photos/2024/thumbnails/D1S1.png" alt="Day 1 Stage 1" />
                         </div>
                         <div class="heroCardContent">
                             <a href="/2024/videos-day-1-part-1" class="ticketCard"><button>Day 1 Part 1</button></a>
@@ -34,7 +34,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-12 col-12 px-md-3">
                     <div class="heroCard">
                         <div class="heroCardImg">
-                            <img src="@/assets/images/photos/2024/thumbnails/D1S2.png" alt="Day 1 Part 2" />
+                            <img src="@/assets/images/photos/2024/thumbnails/D1S2.png" alt="Day 1 Stage 2" />
                         </div>
                         <div class="heroCardContent">
                             <a href="/2024/videos-day-1-part-2" class="ticketCard"><button>Day 1 Part 2</button></a>
@@ -44,7 +44,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-12 col-12 px-md-3">
                     <div class="heroCard">
                         <div class="heroCardImg">
-                            <img src="@/assets/images/photos/2024/thumbnails/D2S1.png" alt="Day 2 Part 1" />
+                            <img src="@/assets/images/photos/2024/thumbnails/D2S1.png" alt="Day 2 Stage 1" />
                         </div>
                         <div class="heroCardContent">
                             <a href="/2024/videos-day-2-part-1" class="ticketCard"><button>Day 2 Part 1</button></a>
@@ -54,7 +54,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-12 col-12 px-md-3">
                     <div class="heroCard">
                         <div class="heroCardImg">
-                            <img src="@/assets/images/photos/2024/thumbnails/D2S2.png" alt="Day 2 Part 2" />
+                            <img src="@/assets/images/photos/2024/thumbnails/D2S2.png" alt="Day 2 Stage 2" />
                         </div>
                         <div class="heroCardContent">
                             <a href="/2024/videos-day-2-part-2" class="ticketCard"><button>Day 2 Part 2</button></a>
